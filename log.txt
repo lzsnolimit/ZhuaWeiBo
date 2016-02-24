@@ -1,0 +1,1577 @@
+22:45:54Following http://weibo.cn/1310131991/follow at position 20 error; time out!
+22:45:54Following http://weibo.cn/1310131991/follow at position 20 error; try again!
+22:45:54Following http://weibo.cn/1310131991/follow at position 20 error; try again!
+22:45:54Following http://weibo.cn/1310131991/follow at position 20 error; try again!
+22:46:41Following http://weibo.cn/1737943044/follow at position 17 error; time out!
+22:46:41Following http://weibo.cn/1737943044/follow at position 17 error; try again!
+22:46:41Following http://weibo.cn/1737943044/follow at position 17 error; try again!
+22:46:41Following http://weibo.cn/1737943044/follow at position 17 error; try again!
+22:47:03Following http://weibo.cn/1661493522/follow at position 6 error; try again!
+22:47:33Following http://weibo.cn/1895841931/follow at position 6 error; try again!
+22:49:36Following http://weibo.cn/3860368643/follow at position 14 error; try again!
+22:51:17Following http://weibo.cn/1733824683/follow at position 18 error; time out!
+22:51:17Following http://weibo.cn/1733824683/follow at position 18 error; try again!
+22:51:17Following http://weibo.cn/1733824683/follow at position 18 error; try again!
+22:51:17Following http://weibo.cn/1733824683/follow at position 18 error; try again!
+22:52:09Following http://weibo.cn/1623680145/follow at position 11 error; time out!
+22:52:09Following http://weibo.cn/1623680145/follow at position 11 error; try again!
+22:52:09Following http://weibo.cn/1623680145/follow at position 11 error; try again!
+22:52:09Following http://weibo.cn/1623680145/follow at position 11 error; try again!
+22:52:10Following http://weibo.cn/1623680145/follow at position 12 error; time out!
+22:52:13Following http://weibo.cn/1623680145/follow at position 15 error; time out!
+22:52:15Following http://weibo.cn/1623680145/follow at position 17 error; time out!
+22:52:17Following http://weibo.cn/1623680145/follow at position 19 error; time out!
+22:52:18Following http://weibo.cn/1623680145/follow at position 20 error; time out!
+22:52:202340015611 error,try again!
+22:52:30Query index 2340015611 time out!
+22:52:312129513883 error,try again!
+22:52:412129513883 error,try again!
+22:52:512129513883 error,try again!
+22:53:012129513883 error,try again!
+22:53:112129513883 error,try again!
+22:53:21Query index 2129513883 time out!
+22:53:50Following http://weibo.cn/3632086395/follow at position 1 error; try again!
+22:53:50Following http://weibo.cn/3632086395/follow at position 1 error; try again!
+22:54:02Following http://weibo.cn/3632086395/follow at position 2 error; try again!
+22:54:03Following http://weibo.cn/3632086395/follow at position 3 error; time out!
+22:54:04Following http://weibo.cn/3632086395/follow at position 4 error; time out!
+22:54:05Following http://weibo.cn/3632086395/follow at position 5 error; time out!
+22:54:06Following http://weibo.cn/3632086395/follow at position 6 error; time out!
+22:54:08Following http://weibo.cn/3632086395/follow at position 8 error; time out!
+22:54:09Following http://weibo.cn/3632086395/follow at position 9 error; time out!
+22:54:10Following http://weibo.cn/3632086395/follow at position 10 error; time out!
+22:54:11Following http://weibo.cn/3632086395/follow at position 11 error; time out!
+22:54:13Following http://weibo.cn/3632086395/follow at position 13 error; time out!
+22:54:15Following http://weibo.cn/3632086395/follow at position 14 error; time out!
+22:54:18Following http://weibo.cn/3632086395/follow at position 17 error; time out!
+22:54:19Following http://weibo.cn/3632086395/follow at position 18 error; time out!
+22:54:20Following http://weibo.cn/3632086395/follow at position 19 error; time out!
+22:54:232683345011 error,try again!
+22:54:332683345011 error,try again!
+22:54:432683345011 error,try again!
+22:54:532683345011 error,try again!
+22:55:032683345011 error,try again!
+22:55:13Query index 2683345011 time out!
+22:55:14wuwei1003673996 error,try again!
+22:55:24wuwei1003673996 error,try again!
+22:55:34wuwei1003673996 error,try again!
+22:55:44wuwei1003673996 error,try again!22:55:54wuwei1003673996 error,try again!
+22:56:04Query index wuwei1003673996 time out!
+22:56:05vcwangjing error,try again!
+22:56:15vcwangjing error,try again!
+22:56:25vcwangjing error,try again!
+22:56:35vcwangjing error,try again!
+22:56:45vcwangjing error,try again!
+22:56:55Query index vcwangjing time out!
+22:57:09Following http://weibo.cn/2188100405/follow at position 1 error; try again!
+22:57:21Following http://weibo.cn/2188100405/follow at position 2 error; try again!
+22:57:33Following http://weibo.cn/2188100405/follow at position 3 error; try again!
+22:57:34Following http://weibo.cn/2188100405/follow at position 4 error; time out!
+22:57:35Following http://weibo.cn/2188100405/follow at position 5 error; time out!
+22:57:36Following http://weibo.cn/2188100405/follow at position 6 error; time out!
+22:57:38Following http://weibo.cn/2188100405/follow at position 7 error; time out!
+22:57:39Following http://weibo.cn/2188100405/follow at position 8 error; time out!
+22:57:42Following http://weibo.cn/2188100405/follow at position 11 error; time out!
+22:57:45Following http://weibo.cn/2188100405/follow at position 15 error; time out!
+22:57:46Following http://weibo.cn/2188100405/follow at position 16 error; time out!
+22:57:49Following http://weibo.cn/2188100405/follow at position 19 error; time out!
+22:58:27Following http://weibo.cn/2808556675/follow at position 2 error; time out!
+22:58:27Following http://weibo.cn/2808556675/follow at position 2 error; try again!
+22:58:27Following http://weibo.cn/2808556675/follow at position 2 error; try again!
+22:58:27Following http://weibo.cn/2808556675/follow at position 2 error; try again!
+22:58:29Following http://weibo.cn/2808556675/follow at position 4 error; time out!
+22:58:30Following http://weibo.cn/2808556675/follow at position 6 error; time out!
+22:58:32Following http://weibo.cn/2808556675/follow at position 8 error; time out!
+22:58:33Following http://weibo.cn/2808556675/follow at position 9 error; time out!
+22:58:35Following http://weibo.cn/2808556675/follow at position 10 error; time out!
+22:58:36Following http://weibo.cn/2808556675/follow at position 11 error; time out!
+22:58:39Following http://weibo.cn/2808556675/follow at position 15 error; time out!
+22:58:41Following http://weibo.cn/2808556675/follow at position 16 error; time out!
+22:58:42Following http://weibo.cn/2808556675/follow at position 17 error; time out!
+22:58:43Following http://weibo.cn/2808556675/follow at position 18 error; time out!
+22:58:45Following http://weibo.cn/2808556675/follow at position 20 error; time out!
+22:58:472643939353 error,try again!
+22:58:572643939353 error,try again!
+22:59:072643939353 error,try again!
+22:59:172643939353 error,try again!
+22:59:272643939353 error,try again!
+22:59:37Query index 2643939353 time out!
+22:59:38523460558 error,try again!
+22:59:48523460558 error,try again!
+22:59:58523460558 error,try again!
+23:00:08523460558 error,try again!
+23:00:18523460558 error,try again!
+23:00:28Query index 523460558 time out!
+23:00:29574400960 error,try again!
+23:00:39574400960 error,try again!
+23:00:49574400960 error,try again!
+23:00:59574400960 error,try again!
+23:01:09574400960 error,try again!
+23:01:19Query index 574400960 time out!
+23:01:213199047200 error,try again!
+23:01:313199047200 error,try again!
+23:01:413199047200 error,try again!
+23:01:513199047200 error,try again!
+23:02:013199047200 error,try again!
+23:02:11Query index 3199047200 time out!
+23:02:125522823800 error,try again!
+23:02:225522823800 error,try again!
+23:02:325522823800 error,try again!
+23:02:425522823800 error,try again!
+23:02:525522823800 error,try again!
+23:03:02Query index 5522823800 time out!
+23:03:38Following http://weibo.cn/1777657233/follow at position 1 error; try again!
+23:03:38Following http://weibo.cn/1777657233/follow at position 1 error; try again!
+23:03:38Following http://weibo.cn/1777657233/follow at position 1 error; try again!
+23:03:41Following http://weibo.cn/1777657233/follow at position 3 error; time out!
+23:03:44Following http://weibo.cn/1777657233/follow at position 5 error; time out!
+23:03:46Following http://weibo.cn/1777657233/follow at position 7 error; time out!
+23:03:47Following http://weibo.cn/1777657233/follow at position 8 error; time out!
+23:03:48Following http://weibo.cn/1777657233/follow at position 9 error; time out!
+23:03:49Following http://weibo.cn/1777657233/follow at position 10 error; time out!
+23:03:50Following http://weibo.cn/1777657233/follow at position 11 error; time out!
+23:03:52Following http://weibo.cn/1777657233/follow at position 13 error; time out!
+23:03:53Following http://weibo.cn/1777657233/follow at position 14 error; time out!
+23:03:55Following http://weibo.cn/1777657233/follow at position 17 error; time out!
+23:03:57Following http://weibo.cn/1777657233/follow at position 18 error; time out!
+23:03:58Following http://weibo.cn/1777657233/follow at position 19 error; time out!
+23:03:59Following http://weibo.cn/1777657233/follow at position 20 error; time out!
+23:04:01niujian710 error,try again!
+23:04:11niujian710 error,try again!
+23:04:21niujian710 error,try again!
+23:04:31niujian710 error,try again!
+23:04:41niujian710 error,try again!
+23:04:51Query index niujian710 time out!
+23:05:29Following http://weibo.cn/1900093822/follow at position 1 error; time out!
+23:05:29Following http://weibo.cn/1900093822/follow at position 1 error; try again!
+23:05:29Following http://weibo.cn/1900093822/follow at position 1 error; try again!
+23:05:29Following http://weibo.cn/1900093822/follow at position 1 error; try again!
+23:05:30Following http://weibo.cn/1900093822/follow at position 2 error; time out!
+23:05:31Following http://weibo.cn/1900093822/follow at position 3 error; time out!
+23:05:33Following http://weibo.cn/1900093822/follow at position 4 error; time out!
+23:05:36Following http://weibo.cn/1900093822/follow at position 6 error; time out!
+23:05:37Following http://weibo.cn/1900093822/follow at position 7 error; time out!
+23:05:39Following http://weibo.cn/1900093822/follow at position 9 error; time out!
+23:05:40Following http://weibo.cn/1900093822/follow at position 10 error; time out!
+23:05:43Following http://weibo.cn/1900093822/follow at position 13 error; time out!
+23:05:44Following http://weibo.cn/1900093822/follow at position 15 error; time out!
+23:05:45Following http://weibo.cn/1900093822/follow at position 16 error; time out!
+23:05:47Following http://weibo.cn/1900093822/follow at position 18 error; time out!
+23:05:48Following http://weibo.cn/1900093822/follow at position 19 error; time out!
+23:10:05shuchang error,try again!
+23:10:15shuchang error,try again!
+23:10:25Query index shuchang time out!
+23:10:50Following http://weibo.cn/5075928701/follow at position 1 error; try again!
+23:10:50Following http://weibo.cn/5075928701/follow at position 1 error; try again!
+23:11:07Following http://weibo.cn/5075928701/follow at position 5 error; time out!
+23:11:07Following http://weibo.cn/5075928701/follow at position 5 error; try again!
+23:11:08Following http://weibo.cn/5075928701/follow at position 6 error; time out!
+23:11:09Following http://weibo.cn/5075928701/follow at position 7 error; time out!
+23:11:11Following http://weibo.cn/5075928701/follow at position 9 error; time out!
+23:11:12Following http://weibo.cn/5075928701/follow at position 10 error; time out!
+23:11:14Following http://weibo.cn/5075928701/follow at position 12 error; time out!
+23:11:15Following http://weibo.cn/5075928701/follow at position 13 error; time out!
+23:11:16Following http://weibo.cn/5075928701/follow at position 14 error; time out!
+23:11:18Following http://weibo.cn/5075928701/follow at position 16 error; time out!
+23:11:19Following http://weibo.cn/5075928701/follow at position 17 error; time out!
+23:11:20Following http://weibo.cn/5075928701/follow at position 18 error; time out!
+23:11:21Following http://weibo.cn/5075928701/follow at position 19 error; time out!
+23:11:24ruiguaiguai error,try again!
+23:11:34ruiguaiguai error,try again!
+23:11:44ruiguaiguai error,try again!
+23:11:54ruiguaiguai error,try again!
+10:35:02Following http://weibo.cn/5667487502/follow at position 3 error; try again!
+10:35:57Following http://weibo.cn/1001628504/follow at position 10 error; try again!
+10:36:20Following http://weibo.cn/1001628504/follow at position 13 error; time out!
+10:36:20Following http://weibo.cn/1001628504/follow at position 13 error; try again!
+10:36:20Following http://weibo.cn/1001628504/follow at position 13 error; try again!
+10:37:17Following http://weibo.cn/2534154392/follow at position 17 error; time out!
+10:37:17Following http://weibo.cn/2534154392/follow at position 17 error; try again!
+10:37:17Following http://weibo.cn/2534154392/follow at position 17 error; try again!
+10:37:17Following http://weibo.cn/2534154392/follow at position 17 error; try again!
+10:37:18Following http://weibo.cn/2534154392/follow at position 18 error; time out!
+10:38:37Following http://weibo.cn/2704860770/follow at position 11 error; time out!
+10:38:37Following http://weibo.cn/2704860770/follow at position 11 error; try again!
+10:38:37Following http://weibo.cn/2704860770/follow at position 11 error; try again!
+10:38:37Following http://weibo.cn/2704860770/follow at position 11 error; try again!
+10:40:18Following http://weibo.cn/3210268841/follow at position 16 error; time out!
+10:40:18Following http://weibo.cn/3210268841/follow at position 16 error; try again!
+10:40:18Following http://weibo.cn/3210268841/follow at position 16 error; try again!
+10:40:18Following http://weibo.cn/3210268841/follow at position 16 error; try again!
+10:41:10Following http://weibo.cn/1317015675/follow at position 16 error; time out!
+10:41:10Following http://weibo.cn/1317015675/follow at position 16 error; try again!
+10:41:10Following http://weibo.cn/1317015675/follow at position 16 error; try again!
+10:41:10Following http://weibo.cn/1317015675/follow at position 16 error; try again!
+10:42:58wuxiaomin error,try again!
+10:45:47Following http://weibo.cn/2004836081/follow at position 20 error; time out!
+10:45:47Following http://weibo.cn/2004836081/follow at position 20 error; try again!
+10:45:47Following http://weibo.cn/2004836081/follow at position 20 error; try again!
+10:45:47Following http://weibo.cn/2004836081/follow at position 20 error; try again!
+10:46:20Following http://weibo.cn/1273904494/follow at position 19 error; try again!
+10:48:08Following http://weibo.cn/3176642170/follow at position 15 error; time out!
+10:48:08Following http://weibo.cn/3176642170/follow at position 15 error; try again!
+10:48:08Following http://weibo.cn/3176642170/follow at position 15 error; try again!
+10:48:08Following http://weibo.cn/3176642170/follow at position 15 error; try again!
+10:48:27Following http://weibo.cn/1213537034/follow at position 4 error; try again!
+10:48:50jiasule error,try again!
+10:50:01Following http://weibo.cn/2114222521/follow at position 8 error; try again!
+10:50:16Following http://weibo.cn/2114222521/follow at position 9 error; try again!
+10:51:04Following http://weibo.cn/2245153857/follow at position 5 error; time out!
+10:51:04Following http://weibo.cn/2245153857/follow at position 5 error; try again!
+10:51:04Following http://weibo.cn/2245153857/follow at position 5 error; try again!
+10:51:04Following http://weibo.cn/2245153857/follow at position 5 error; try again!
+10:51:53Following http://weibo.cn/1913813700/follow at position 18 error; time out!
+10:51:53Following http://weibo.cn/1913813700/follow at position 18 error; try again!
+10:51:53Following http://weibo.cn/1913813700/follow at position 18 error; try again!
+10:51:53Following http://weibo.cn/1913813700/follow at position 18 error; try again!
+10:53:10Following http://weibo.cn/1743877455/follow at position 9 error; try again!
+10:54:10Following http://weibo.cn/5340900738/follow at position 15 error; time out!
+10:54:10Following http://weibo.cn/5340900738/follow at position 15 error; try again!
+10:54:10Following http://weibo.cn/5340900738/follow at position 15 error; try again!
+10:54:10Following http://weibo.cn/5340900738/follow at position 15 error; try again!
+10:55:26Following http://weibo.cn/5085451757/follow at position 20 error; time out!
+10:55:26Following http://weibo.cn/5085451757/follow at position 20 error; try again!
+10:55:26Following http://weibo.cn/5085451757/follow at position 20 error; try again!
+10:55:26Following http://weibo.cn/5085451757/follow at position 20 error; try again!
+10:56:11Following http://weibo.cn/1998106711/follow at position 4 error; try again!
+10:56:35Following http://weibo.cn/1998106711/follow at position 5 error; time out!
+10:56:35Following http://weibo.cn/1998106711/follow at position 5 error; try again!
+10:56:35Following http://weibo.cn/1998106711/follow at position 5 error; try again!
+10:56:36Following http://weibo.cn/1998106711/follow at position 6 error; time out!
+10:57:17Following http://weibo.cn/5372810321/follow at position 2 error; try again!
+10:57:35Following http://weibo.cn/5372810321/follow at position 6 error; try again!
+10:58:58Query index 2111038474 time out!
+10:59:15Following http://weibo.cn/1652041675/follow at position 2 error; try again!
+11:00:01Following http://weibo.cn/3481011505/follow at position 19 error; try again!
+11:01:10Following http://weibo.cn/2278026181/follow at position 7 error; try again!
+11:01:38Following http://weibo.cn/1861238854/follow at position 2 error; try again!
+11:02:45Following http://weibo.cn/5137243971/follow at position 15 error; time out!
+11:02:45Following http://weibo.cn/5137243971/follow at position 15 error; try again!
+11:02:45Following http://weibo.cn/5137243971/follow at position 15 error; try again!
+11:02:45Following http://weibo.cn/5137243971/follow at position 15 error; try again!
+11:02:46Following http://weibo.cn/5137243971/follow at position 16 error; time out!
+11:02:46Following http://weibo.cn/5137243971/follow at position 17 error; time out!
+11:02:47Following http://weibo.cn/5137243971/follow at position 18 error; time out!
+11:02:48Following http://weibo.cn/5137243971/follow at position 19 error; time out!
+11:02:48Following http://weibo.cn/5137243971/follow at position 20 error; time out!
+11:03:32Following http://weibo.cn/1964473353/follow at position 5 error; try again!
+11:04:38Following http://weibo.cn/2019622205/follow at position 16 error; try again!
+11:05:12Following http://weibo.cn/5429435529/follow at position 20 error; try again!
+11:05:53Following http://weibo.cn/1799576054/follow at position 15 error; try again!
+11:06:30Following http://weibo.cn/3233610135/follow at position 19 error; try again!
+11:06:52Following http://weibo.cn/1426714184/follow at position 3 error; try again!
+11:07:27Following http://weibo.cn/1426714184/follow at position 18 error; time out!
+11:07:27Following http://weibo.cn/1426714184/follow at position 18 error; try again!
+11:07:27Following http://weibo.cn/1426714184/follow at position 18 error; try again!
+11:09:52Following http://weibo.cn/2385153454/follow at position 13 error; try again!
+11:10:09Following http://weibo.cn/2385153454/follow at position 18 error; try again!
+11:11:41Following http://weibo.cn/2881530262/follow at position 17 error; try again!
+11:12:37Following http://weibo.cn/2598721067/follow at position 18 error; time out!
+11:12:37Following http://weibo.cn/2598721067/follow at position 18 error; try again!
+11:12:37Following http://weibo.cn/2598721067/follow at position 18 error; try again!
+11:12:37Following http://weibo.cn/2598721067/follow at position 18 error; try again!
+11:13:35Following http://weibo.cn/2355263024/follow at position 4 error; try again!
+11:14:03Following http://weibo.cn/2355263024/follow at position 12 error; time out!
+11:14:03Following http://weibo.cn/2355263024/follow at position 12 error; try again!
+11:14:03Following http://weibo.cn/2355263024/follow at position 12 error; try again!
+11:14:38Following http://weibo.cn/2698209243/follow at position 5 error; try again!
+11:16:17Following http://weibo.cn/5228054531/follow at position 8 error; time out!
+11:16:17Following http://weibo.cn/5228054531/follow at position 8 error; try again!
+11:16:17Following http://weibo.cn/5228054531/follow at position 8 error; try again!
+11:16:17Following http://weibo.cn/5228054531/follow at position 8 error; try again!
+11:16:19Following http://weibo.cn/5228054531/follow at position 11 error; time out!
+11:16:21Following http://weibo.cn/5228054531/follow at position 13 error; time out!
+11:16:22Following http://weibo.cn/5228054531/follow at position 14 error; time out!
+11:18:31Following http://weibo.cn/1248247203/follow at position 19 error; try again!
+11:20:20Following http://weibo.cn/1533917471/follow at position 9 error; time out!
+11:20:20Following http://weibo.cn/1533917471/follow at position 9 error; try again!
+11:20:20Following http://weibo.cn/1533917471/follow at position 9 error; try again!
+11:20:20Following http://weibo.cn/1533917471/follow at position 9 error; try again!
+11:21:24Following http://weibo.cn/2971749192/follow at position 8 error; try again!
+11:22:22Following http://weibo.cn/2091516094/follow at position 20 error; time out!
+11:22:22Following http://weibo.cn/2091516094/follow at position 20 error; try again!
+11:22:22Following http://weibo.cn/2091516094/follow at position 20 error; try again!
+11:22:22Following http://weibo.cn/2091516094/follow at position 20 error; try again!
+11:23:14Following http://weibo.cn/5171745828/follow at position 16 error; time out!
+11:23:14Following http://weibo.cn/5171745828/follow at position 16 error; try again!
+11:23:14Following http://weibo.cn/5171745828/follow at position 16 error; try again!
+11:23:14Following http://weibo.cn/5171745828/follow at position 16 error; try again!
+11:24:01Following http://weibo.cn/3008184101/follow at position 17 error; time out!
+11:24:01Following http://weibo.cn/3008184101/follow at position 17 error; try again!
+11:24:01Following http://weibo.cn/3008184101/follow at position 17 error; try again!
+11:24:01Following http://weibo.cn/3008184101/follow at position 17 error; try again!
+11:25:17Following http://weibo.cn/1814371341/follow at position 9 error; try again!
+11:26:45Following http://weibo.cn/1981018533/follow at position 20 error; time out!
+11:26:45Following http://weibo.cn/1981018533/follow at position 20 error; try again!
+11:26:45Following http://weibo.cn/1981018533/follow at position 20 error; try again!
+11:26:45Following http://weibo.cn/1981018533/follow at position 20 error; try again!
+11:27:29Following http://weibo.cn/2109243041/follow at position 11 error; time out!
+11:27:29Following http://weibo.cn/2109243041/follow at position 11 error; try again!
+11:27:29Following http://weibo.cn/2109243041/follow at position 11 error; try again!
+11:27:29Following http://weibo.cn/2109243041/follow at position 11 error; try again!
+11:28:18Following http://weibo.cn/3774581075/follow at position 16 error; try again!
+11:28:34Following http://weibo.cn/3774581075/follow at position 17 error; try again!
+11:28:48Following http://weibo.cn/3774581075/follow at position 18 error; try again!
+11:28:51Following http://weibo.cn/3774581075/follow at position 19 error; time out!
+11:28:54Following http://weibo.cn/3774581075/follow at position 20 error; time out!
+11:28:572529940351 error,try again!
+11:29:072529940351 error,try again!
+11:29:172529940351 error,try again!
+11:29:272529940351 error,try again!
+11:29:372529940351 error,try again!
+11:29:47Query index 2529940351 time out!
+11:29:511797863995 error,try again!
+11:30:011797863995 error,try again!
+11:30:111797863995 error,try again!
+11:30:211797863995 error,try again!
+11:30:311797863995 error,try again!
+11:30:41Query index 1797863995 time out!
+11:30:44234541319 error,try again!
+11:30:54234541319 error,try again!
+11:31:04234541319 error,try again!
+11:31:14234541319 error,try again!
+11:31:24234541319 error,try again!
+11:31:34Query index 234541319 time out!
+11:31:362175644864 error,try again!
+11:31:462175644864 error,try again!
+11:31:562175644864 error,try again!
+11:32:062175644864 error,try again!
+11:32:162175644864 error,try again!
+11:32:26Query index 2175644864 time out!
+11:32:52Following http://weibo.cn/1286711553/follow at position 2 error; try again!
+11:32:52Following http://weibo.cn/1286711553/follow at position 2 error; try again!
+11:33:04Following http://weibo.cn/1286711553/follow at position 3 error; time out!
+11:33:04Following http://weibo.cn/1286711553/follow at position 3 error; try again!
+11:33:05Following http://weibo.cn/1286711553/follow at position 4 error; time out!
+11:33:07Following http://weibo.cn/1286711553/follow at position 5 error; time out!
+11:33:11Following http://weibo.cn/1286711553/follow at position 9 error; time out!
+11:33:12Following http://weibo.cn/1286711553/follow at position 10 error; time out!
+11:33:15Following http://weibo.cn/1286711553/follow at position 14 error; time out!
+11:33:17Following http://weibo.cn/1286711553/follow at position 16 error; time out!
+11:33:19Following http://weibo.cn/1286711553/follow at position 17 error; time out!
+11:33:21Following http://weibo.cn/1286711553/follow at position 19 error; time out!
+11:33:241748771981 error,try again!
+11:33:341748771981 error,try again!
+11:33:441748771981 error,try again!
+11:33:541748771981 error,try again!
+11:34:041748771981 error,try again!
+11:34:14Query index 1748771981 time out!
+11:34:15amypaul error,try again!
+11:34:25amypaul error,try again!
+11:34:35amypaul error,try again!
+11:34:45amypaul error,try again!
+11:34:55amypaul error,try again!
+11:35:05Query index amypaul time out!
+11:35:18Following http://weibo.cn/1768241122/follow at position 1 error; try again!
+11:35:22badlullaby error,try again!
+11:35:32badlullaby error,try again!
+11:35:42badlullaby error,try again!
+11:35:52badlullaby error,try again!
+11:36:02badlullaby error,try again!
+11:36:12Query index badlullaby time out!
+11:36:131771108463 error,try again!
+11:36:231771108463 error,try again!
+11:36:331771108463 error,try again!
+11:36:431771108463 error,try again!
+11:36:531771108463 error,try again!
+11:37:03Query index 1771108463 time out!
+11:37:042098294693 error,try again!
+11:37:142098294693 error,try again!
+11:37:242098294693 error,try again!
+11:37:342098294693 error,try again!
+11:37:442098294693 error,try again!
+11:37:54Query index 2098294693 time out!
+11:37:55ruihao1982 error,try again!
+11:38:05ruihao1982 error,try again!
+11:38:15ruihao1982 error,try again!
+11:38:25ruihao1982 error,try again!
+11:38:35ruihao1982 error,try again!
+11:38:45Query index ruihao1982 time out!
+11:39:22Following http://weibo.cn/3206232863/follow at position 3 error; try again!
+11:39:22Following http://weibo.cn/3206232863/follow at position 3 error; try again!
+11:39:22Following http://weibo.cn/3206232863/follow at position 3 error; try again!
+11:39:23Following http://weibo.cn/3206232863/follow at position 4 error; time out!
+11:39:25Following http://weibo.cn/3206232863/follow at position 5 error; time out!
+11:39:26Following http://weibo.cn/3206232863/follow at position 6 error; time out!
+11:39:27Following http://weibo.cn/3206232863/follow at position 7 error; time out!
+11:39:28Following http://weibo.cn/3206232863/follow at position 8 error; time out!
+11:39:31Following http://weibo.cn/3206232863/follow at position 10 error; time out!
+11:39:35Following http://weibo.cn/3206232863/follow at position 15 error; time out!
+11:39:36Following http://weibo.cn/3206232863/follow at position 16 error; time out!
+11:39:37Following http://weibo.cn/3206232863/follow at position 17 error; time out!
+11:40:16Following http://weibo.cn/1791795181/follow at position 2 error; time out!
+11:40:16Following http://weibo.cn/1791795181/follow at position 2 error; try again!
+11:40:16Following http://weibo.cn/1791795181/follow at position 2 error; try again!
+11:40:16Following http://weibo.cn/1791795181/follow at position 2 error; try again!
+11:40:19Following http://weibo.cn/1791795181/follow at position 5 error; time out!
+11:40:21Following http://weibo.cn/1791795181/follow at position 8 error; time out!
+11:40:22Following http://weibo.cn/1791795181/follow at position 9 error; time out!
+11:40:47Following http://weibo.cn/1437766763/follow at position 1 error; try again!
+11:40:47Following http://weibo.cn/1437766763/follow at position 1 error; try again!
+11:41:00Following http://weibo.cn/1437766763/follow at position 3 error; time out!
+11:41:00Following http://weibo.cn/1437766763/follow at position 3 error; try again!
+11:41:02Following http://weibo.cn/1437766763/follow at position 4 error; time out!
+11:41:03Following http://weibo.cn/1437766763/follow at position 5 error; time out!
+11:41:05Following http://weibo.cn/1437766763/follow at position 6 error; time out!
+11:41:06Following http://weibo.cn/1437766763/follow at position 7 error; time out!
+11:41:08Following http://weibo.cn/1437766763/follow at position 8 error; time out!
+11:41:09Following http://weibo.cn/1437766763/follow at position 9 error; time out!
+11:41:10Following http://weibo.cn/1437766763/follow at position 10 error; time out!
+11:41:11Following http://weibo.cn/1437766763/follow at position 11 error; time out!
+11:41:12Following http://weibo.cn/1437766763/follow at position 12 error; time out!
+11:41:13Following http://weibo.cn/1437766763/follow at position 13 error; time out!
+11:41:14Following http://weibo.cn/1437766763/follow at position 14 error; time out!
+11:41:15Following http://weibo.cn/1437766763/follow at position 15 error; time out!
+11:41:16Following http://weibo.cn/1437766763/follow at position 16 error; time out!
+11:41:19Following http://weibo.cn/1437766763/follow at position 18 error; time out!
+11:41:20Following http://weibo.cn/1437766763/follow at position 19 error; time out!
+11:41:22210104697 error,try again!
+11:41:32210104697 error,try again!
+11:41:42210104697 error,try again!
+11:41:52210104697 error,try again!
+11:42:02210104697 error,try again!
+11:42:12Query index 210104697 time out!
+11:42:13Sopxg error,try again!
+11:42:23Sopxg error,try again!
+11:42:33Sopxg error,try again!
+11:42:43Sopxg error,try again!
+11:42:53Sopxg error,try again!
+11:43:03Query index Sopxg time out!
+11:43:16Following http://weibo.cn/2086661707/follow at position 1 error; try again!
+11:43:30Following http://weibo.cn/2086661707/follow at position 2 error; try again!
+11:43:43Following http://weibo.cn/2086661707/follow at position 3 error; time out!
+11:43:43Following http://weibo.cn/2086661707/follow at position 3 error; try again!
+11:43:44Following http://weibo.cn/2086661707/follow at position 4 error; time out!
+11:43:45Following http://weibo.cn/2086661707/follow at position 5 error; time out!
+11:43:47Following http://weibo.cn/2086661707/follow at position 6 error; time out!
+11:43:50Following http://weibo.cn/2086661707/follow at position 7 error; time out!
+11:43:51Following http://weibo.cn/2086661707/follow at position 9 error; time out!
+11:43:53Following http://weibo.cn/2086661707/follow at position 10 error; time out!
+11:43:54Following http://weibo.cn/2086661707/follow at position 11 error; time out!
+11:43:56Following http://weibo.cn/2086661707/follow at position 13 error; time out!
+11:43:57Following http://weibo.cn/2086661707/follow at position 14 error; time out!
+11:43:58Following http://weibo.cn/2086661707/follow at position 15 error; time out!
+11:44:00Following http://weibo.cn/2086661707/follow at position 17 error; time out!
+11:44:02Following http://weibo.cn/2086661707/follow at position 19 error; time out!
+11:44:03Following http://weibo.cn/2086661707/follow at position 20 error; time out!
+11:44:05qiulixiasrt error,try again!
+11:44:15qiulixiasrt error,try again!
+11:44:25qiulixiasrt error,try again!
+11:44:35qiulixiasrt error,try again!
+11:44:45qiulixiasrt error,try again!
+11:44:55Query index qiulixiasrt time out!
+11:44:582274978892 error,try again!
+11:45:092274978892 error,try again!
+11:45:192274978892 error,try again!
+11:45:292274978892 error,try again!
+11:45:392274978892 error,try again!
+11:45:49Query index 2274978892 time out!
+11:45:51loujing0517 error,try again!
+11:46:01loujing0517 error,try again!
+11:46:11loujing0517 error,try again!
+11:46:21loujing0517 error,try again!
+11:46:31loujing0517 error,try again!
+11:46:41Query index loujing0517 time out!
+11:46:42239234335 error,try again!
+11:46:52239234335 error,try again!
+11:47:02239234335 error,try again!
+11:47:12239234335 error,try again!
+11:47:22239234335 error,try again!
+11:47:32Query index 239234335 time out!
+11:47:45Following http://weibo.cn/1661912733/follow at position 2 error; try again!
+11:48:11Following http://weibo.cn/1661912733/follow at position 5 error; try again!
+11:48:11Following http://weibo.cn/1661912733/follow at position 5 error; try again!
+11:48:12Following http://weibo.cn/1661912733/follow at position 6 error; time out!
+11:48:13Following http://weibo.cn/1661912733/follow at position 7 error; time out!
+11:48:14Following http://weibo.cn/1661912733/follow at position 8 error; time out!
+11:48:16Following http://weibo.cn/1661912733/follow at position 10 error; time out!
+11:48:18Following http://weibo.cn/1661912733/follow at position 12 error; time out!
+11:48:19Following http://weibo.cn/1661912733/follow at position 13 error; time out!
+11:48:211920064571 error,try again!
+11:48:311920064571 error,try again!
+11:48:411920064571 error,try again!
+11:48:511920064571 error,try again!
+11:49:011920064571 error,try again!
+11:49:11Query index 1920064571 time out!
+11:49:1360637177 error,try again!
+11:49:2360637177 error,try again!
+11:49:3360637177 error,try again!
+11:49:4360637177 error,try again!
+11:49:5360637177 error,try again!
+11:50:03Query index 60637177 time out!
+11:50:041825672981 error,try again!
+11:50:141825672981 error,try again!
+11:50:241825672981 error,try again!
+11:50:341825672981 error,try again!
+11:50:441825672981 error,try again!
+11:50:54Query index 1825672981 time out!
+11:50:55angeltongblog error,try again!
+11:51:05angeltongblog error,try again!
+11:51:15angeltongblog error,try again!
+11:51:25angeltongblog error,try again!
+11:51:35angeltongblog error,try again!
+11:51:45Query index angeltongblog time out!
+11:51:461784048107 error,try again!
+11:51:561784048107 error,try again!
+11:52:061784048107 error,try again!
+11:52:161784048107 error,try again!
+11:52:261784048107 error,try again!
+11:52:36Query index 1784048107 time out!
+11:53:14Following http://weibo.cn/5170550563/follow at position 1 error; try again!
+11:53:14Following http://weibo.cn/5170550563/follow at position 1 error; try again!
+11:53:14Following http://weibo.cn/5170550563/follow at position 1 error; try again!
+11:53:15Following http://weibo.cn/5170550563/follow at position 2 error; time out!
+11:53:17Following http://weibo.cn/5170550563/follow at position 3 error; time out!
+11:53:18Following http://weibo.cn/5170550563/follow at position 4 error; time out!
+11:53:19Following http://weibo.cn/5170550563/follow at position 5 error; time out!
+11:53:21Following http://weibo.cn/5170550563/follow at position 7 error; time out!
+11:53:23Following http://weibo.cn/5170550563/follow at position 8 error; time out!
+11:53:24Following http://weibo.cn/5170550563/follow at position 9 error; time out!
+11:53:25Following http://weibo.cn/5170550563/follow at position 10 error; time out!
+11:53:31Following http://weibo.cn/5170550563/follow at position 14 error; time out!
+11:53:33Following http://weibo.cn/5170550563/follow at position 15 error; time out!
+11:53:37Following http://weibo.cn/5170550563/follow at position 19 error; time out!
+11:53:38Following http://weibo.cn/5170550563/follow at position 20 error; time out!
+11:53:53Following http://weibo.cn/2921923313/follow at position 1 error; try again!
+11:54:16Following http://weibo.cn/2921923313/follow at position 2 error; try again!
+11:54:16Following http://weibo.cn/2921923313/follow at position 2 error; try again!
+11:54:21Following http://weibo.cn/2921923313/follow at position 7 error; time out!
+11:54:22Following http://weibo.cn/2921923313/follow at position 8 error; time out!
+11:54:25Following http://weibo.cn/2921923313/follow at position 9 error; time out!
+11:54:26Following http://weibo.cn/2921923313/follow at position 10 error; time out!
+11:54:27Following http://weibo.cn/2921923313/follow at position 11 error; time out!
+11:54:29Following http://weibo.cn/2921923313/follow at position 12 error; time out!
+11:54:31Following http://weibo.cn/2921923313/follow at position 14 error; time out!
+11:54:45Following http://weibo.cn/2439479340/follow at position 1 error; try again!
+11:55:09Following http://weibo.cn/2439479340/follow at position 2 error; try again!
+11:55:09Following http://weibo.cn/2439479340/follow at position 2 error; try again!
+11:55:10Following http://weibo.cn/2439479340/follow at position 3 error; time out!
+11:55:14Following http://weibo.cn/2439479340/follow at position 6 error; time out!
+11:55:15Following http://weibo.cn/2439479340/follow at position 7 error; time out!
+11:55:17Following http://weibo.cn/2439479340/follow at position 8 error; time out!
+11:55:21Following http://weibo.cn/2439479340/follow at position 9 error; time out!
+11:55:23Following http://weibo.cn/2439479340/follow at position 10 error; time out!
+11:55:24Following http://weibo.cn/2439479340/follow at position 11 error; time out!
+11:55:26Following http://weibo.cn/2439479340/follow at position 13 error; time out!
+11:55:28Following http://weibo.cn/2439479340/follow at position 14 error; time out!
+11:55:33Following http://weibo.cn/2439479340/follow at position 18 error; time out!
+11:55:37Following http://weibo.cn/2439479340/follow at position 20 error; time out!
+11:56:05Following http://weibo.cn/2562917822/follow at position 3 error; try again!
+11:56:05Following http://weibo.cn/2562917822/follow at position 3 error; try again!
+11:56:17Following http://weibo.cn/2562917822/follow at position 4 error; time out!
+11:56:17Following http://weibo.cn/2562917822/follow at position 4 error; try again!
+11:56:18Following http://weibo.cn/2562917822/follow at position 5 error; time out!
+11:56:19Following http://weibo.cn/2562917822/follow at position 6 error; time out!
+11:56:20Following http://weibo.cn/2562917822/follow at position 7 error; time out!
+11:56:23Following http://weibo.cn/2562917822/follow at position 10 error; time out!
+11:56:26Following http://weibo.cn/2562917822/follow at position 14 error; time out!
+11:56:29Following http://weibo.cn/2562917822/follow at position 16 error; time out!
+11:56:32Following http://weibo.cn/2562917822/follow at position 17 error; time out!
+11:56:372013264711 error,try again!
+11:56:472013264711 error,try again!
+11:56:572013264711 error,try again!
+11:57:072013264711 error,try again!
+11:57:172013264711 error,try again!
+11:57:27Query index 2013264711 time out!
+11:57:293694919990 error,try again!
+11:57:393694919990 error,try again!
+11:57:493694919990 error,try again!
+11:57:593694919990 error,try again!
+11:58:093694919990 error,try again!
+11:58:19Query index 3694919990 time out!
+11:58:201622194823 error,try again!
+11:58:301622194823 error,try again!
+11:58:401622194823 error,try again!
+11:58:501622194823 error,try again!
+11:59:001622194823 error,try again!
+11:59:10Query index 1622194823 time out!
+11:59:12lucypeonyfeminism error,try again!
+11:59:22lucypeonyfeminism error,try again!
+11:59:32lucypeonyfeminism error,try again!
+11:59:42lucypeonyfeminism error,try again!
+11:59:52lucypeonyfeminism error,try again!
+12:00:02Query index lucypeonyfeminism time out!
+12:00:03busuwang error,try again!
+12:00:13busuwang error,try again!
+12:00:23busuwang error,try again!
+12:00:33busuwang error,try again!
+12:00:43busuwang error,try again!
+12:00:53Query index busuwang time out!
+12:00:551406339050 error,try again!
+12:01:051406339050 error,try again!
+12:01:151406339050 error,try again!
+12:01:251406339050 error,try again!
+12:01:351406339050 error,try again!
+12:01:45Query index 1406339050 time out!
+12:01:461937828632 error,try again!
+12:01:561937828632 error,try again!
+12:02:061937828632 error,try again!
+12:02:161937828632 error,try again!
+12:02:261937828632 error,try again!
+12:02:36Query index 1937828632 time out!
+12:02:37yoyobearxy error,try again!
+12:02:47yoyobearxy error,try again!
+12:02:57yoyobearxy error,try again!
+12:03:07yoyobearxy error,try again!
+12:03:17yoyobearxy error,try again!
+12:03:27Query index yoyobearxy time out!
+12:03:45Following http://weibo.cn/2213629354/follow at position 4 error; try again!
+12:04:11Following http://weibo.cn/2213629354/follow at position 6 error; time out!
+12:04:11Following http://weibo.cn/2213629354/follow at position 6 error; try again!
+12:04:11Following http://weibo.cn/2213629354/follow at position 6 error; try again!
+12:04:13Following http://weibo.cn/2213629354/follow at position 8 error; time out!
+12:04:15Following http://weibo.cn/2213629354/follow at position 11 error; time out!
+12:04:19Following http://weibo.cn/2213629354/follow at position 12 error; time out!
+12:04:21Following http://weibo.cn/2213629354/follow at position 13 error; time out!
+12:04:24Following http://weibo.cn/2213629354/follow at position 16 error; time out!
+12:04:25Following http://weibo.cn/2213629354/follow at position 17 error; time out!
+12:04:312291250415 error,try again!
+12:04:412291250415 error,try again!
+12:04:512291250415 error,try again!
+12:05:012291250415 error,try again!
+12:05:112291250415 error,try again!
+12:05:21Query index 2291250415 time out!
+12:05:232783521731 error,try again!
+12:05:332783521731 error,try again!
+12:05:432783521731 error,try again!
+12:05:532783521731 error,try again!
+12:06:032783521731 error,try again!
+12:06:13Query index 2783521731 time out!
+12:06:38Following http://weibo.cn/3167813277/follow at position 1 error; try again!
+12:06:38Following http://weibo.cn/3167813277/follow at position 1 error; try again!
+12:06:50Following http://weibo.cn/3167813277/follow at position 2 error; time out!
+12:06:50Following http://weibo.cn/3167813277/follow at position 2 error; try again!
+12:06:52Following http://weibo.cn/3167813277/follow at position 4 error; time out!
+12:06:53Following http://weibo.cn/3167813277/follow at position 5 error; time out!
+12:06:55Following http://weibo.cn/3167813277/follow at position 6 error; time out!
+12:06:57Following http://weibo.cn/3167813277/follow at position 7 error; time out!
+12:06:58Following http://weibo.cn/3167813277/follow at position 8 error; time out!
+12:07:00Following http://weibo.cn/3167813277/follow at position 10 error; time out!
+12:07:02Following http://weibo.cn/3167813277/follow at position 11 error; time out!
+12:07:04Following http://weibo.cn/3167813277/follow at position 13 error; time out!
+12:07:06Following http://weibo.cn/3167813277/follow at position 15 error; time out!
+12:07:09Following http://weibo.cn/3167813277/follow at position 17 error; time out!
+12:07:11Following http://weibo.cn/3167813277/follow at position 18 error; time out!
+12:07:13Following http://weibo.cn/3167813277/follow at position 19 error; time out!
+12:07:17Following http://weibo.cn/3167813277/follow at position 20 error; time out!
+12:07:211944274701 error,try again!
+12:07:311944274701 error,try again!
+12:07:411944274701 error,try again!
+12:07:511944274701 error,try again!
+12:08:011944274701 error,try again!
+12:08:11Query index 1944274701 time out!
+12:08:13beautyyingtao error,try again!
+13:09:44beautyyingtao error,try again!
+13:09:54beautyyingtao error,try again!
+13:10:04beautyyingtao error,try again!
+13:10:14beautyyingtao error,try again!
+13:10:24Query index beautyyingtao time out!
+13:10:265274931830 error,try again!
+13:10:365274931830 error,try again!
+13:10:465274931830 error,try again!
+13:10:565274931830 error,try again!
+13:11:065274931830 error,try again!
+13:11:16Query index 5274931830 time out!
+13:11:20taorui517 error,try again!
+13:11:30taorui517 error,try again!
+13:11:40taorui517 error,try again!
+13:11:50taorui517 error,try again!
+13:12:00taorui517 error,try again!
+13:12:10Query index taorui517 time out!
+13:12:46Following http://weibo.cn/3177978142/follow at position 1 error; time out!
+13:12:46Following http://weibo.cn/3177978142/follow at position 1 error; try again!
+13:12:46Following http://weibo.cn/3177978142/follow at position 1 error; try again!
+13:12:46Following http://weibo.cn/3177978142/follow at position 1 error; try again!
+13:12:49Following http://weibo.cn/3177978142/follow at position 3 error; time out!
+13:12:50Following http://weibo.cn/3177978142/follow at position 4 error; time out!
+13:12:51Following http://weibo.cn/3177978142/follow at position 6 error; time out!
+13:12:53Following http://weibo.cn/3177978142/follow at position 7 error; time out!
+13:12:54Following http://weibo.cn/3177978142/follow at position 8 error; time out!
+13:12:56Following http://weibo.cn/3177978142/follow at position 9 error; time out!
+13:12:57Following http://weibo.cn/3177978142/follow at position 10 error; time out!
+13:13:002151002252 error,try again!
+13:13:112151002252 error,try again!
+13:13:212151002252 error,try again!
+13:13:312151002252 error,try again!
+13:13:412151002252 error,try again!
+13:13:51Query index 2151002252 time out!
+13:14:05Following http://weibo.cn/2687441951/follow at position 1 error; try again!
+13:14:30Following http://weibo.cn/2687441951/follow at position 2 error; time out!
+13:14:30Following http://weibo.cn/2687441951/follow at position 2 error; try again!
+13:14:30Following http://weibo.cn/2687441951/follow at position 2 error; try again!
+13:14:31Following http://weibo.cn/2687441951/follow at position 3 error; time out!
+13:14:33Following http://weibo.cn/2687441951/follow at position 5 error; time out!
+13:14:34Following http://weibo.cn/2687441951/follow at position 6 error; time out!
+13:14:35Following http://weibo.cn/2687441951/follow at position 7 error; time out!
+13:14:39Following http://weibo.cn/2687441951/follow at position 9 error; time out!
+13:14:41Following http://weibo.cn/2687441951/follow at position 11 error; time out!
+13:14:42Following http://weibo.cn/2687441951/follow at position 12 error; time out!
+13:14:44Following http://weibo.cn/2687441951/follow at position 14 error; time out!
+13:14:48Following http://weibo.cn/2687441951/follow at position 15 error; time out!
+13:14:50Following http://weibo.cn/2687441951/follow at position 16 error; time out!
+13:14:51Following http://weibo.cn/2687441951/follow at position 17 error; time out!
+13:14:52Following http://weibo.cn/2687441951/follow at position 18 error; time out!
+13:14:54Following http://weibo.cn/2687441951/follow at position 20 error; time out!
+13:14:55soeasygoing error,try again!
+13:15:05soeasygoing error,try again!
+13:15:15soeasygoing error,try again!
+13:15:25soeasygoing error,try again!
+13:15:35soeasygoing error,try again!
+13:15:45Query index soeasygoing time out!
+13:16:24Following http://weibo.cn/2451534844/follow at position 2 error; try again!
+13:16:24Following http://weibo.cn/2451534844/follow at position 2 error; try again!
+13:16:24Following http://weibo.cn/2451534844/follow at position 2 error; try again!
+13:16:25chejianxin error,try again!
+13:16:35chejianxin error,try again!
+13:16:45chejianxin error,try again!
+13:16:55chejianxin error,try again!
+13:17:05chejianxin error,try again!
+13:17:15Query index chejianxin time out!
+13:17:52Following http://weibo.cn/5450083017/follow at position 1 error; try again!
+13:17:52Following http://weibo.cn/5450083017/follow at position 1 error; try again!
+13:17:52Following http://weibo.cn/5450083017/follow at position 1 error; try again!
+13:17:56Following http://weibo.cn/5450083017/follow at position 4 error; time out!
+13:18:00Following http://weibo.cn/5450083017/follow at position 5 error; time out!
+13:18:01Following http://weibo.cn/5450083017/follow at position 6 error; time out!
+13:18:02Following http://weibo.cn/5450083017/follow at position 7 error; time out!
+13:18:04Following http://weibo.cn/5450083017/follow at position 9 error; time out!
+13:18:05Following http://weibo.cn/5450083017/follow at position 10 error; time out!
+13:18:11Following http://weibo.cn/5450083017/follow at position 11 error; time out!
+13:18:155737981591 error,try again!
+13:18:255737981591 error,try again!
+13:18:355737981591 error,try again!
+13:18:455737981591 error,try again!
+13:18:555737981591 error,try again!
+13:19:05Query index 5737981591 time out!
+13:19:073945947767 error,try again!
+13:19:173945947767 error,try again!
+13:19:273945947767 error,try again!
+13:19:373945947767 error,try again!
+13:19:473945947767 error,try again!
+13:19:57Query index 3945947767 time out!
+13:20:33Following http://weibo.cn/1602726892/follow at position 2 error; time out!
+13:20:33Following http://weibo.cn/1602726892/follow at position 2 error; try again!
+13:20:33Following http://weibo.cn/1602726892/follow at position 2 error; try again!
+13:20:33Following http://weibo.cn/1602726892/follow at position 2 error; try again!
+13:20:35Following http://weibo.cn/1602726892/follow at position 3 error; time out!
+13:20:38Following http://weibo.cn/1602726892/follow at position 5 error; time out!
+13:20:41Following http://weibo.cn/1602726892/follow at position 6 error; time out!
+13:20:42Following http://weibo.cn/1602726892/follow at position 7 error; time out!
+13:20:43Following http://weibo.cn/1602726892/follow at position 8 error; time out!
+13:20:45Following http://weibo.cn/1602726892/follow at position 10 error; time out!
+13:20:46Following http://weibo.cn/1602726892/follow at position 12 error; time out!
+13:20:48Following http://weibo.cn/1602726892/follow at position 14 error; time out!
+13:20:49Following http://weibo.cn/1602726892/follow at position 15 error; time out!
+13:20:51Following http://weibo.cn/1602726892/follow at position 17 error; time out!
+13:20:52Following http://weibo.cn/1602726892/follow at position 18 error; time out!
+13:20:53Following http://weibo.cn/1602726892/follow at position 19 error; time out!
+14:05:16null error,try again!
+14:09:05209494265 error,try again!
+14:09:15209494265 error,try again!
+14:09:25Query index 209494265 time out!
+14:09:272270949044 error,try again!
+14:09:372270949044 error,try again!
+14:09:472270949044 error,try again!
+14:09:572270949044 error,try again!
+14:10:072270949044 error,try again!
+14:10:17Query index 2270949044 time out!
+14:10:191769870967 error,try again!
+14:10:291769870967 error,try again!
+14:10:391769870967 error,try again!
+14:10:491769870967 error,try again!
+14:10:591769870967 error,try again!
+21:27:12Following http://weibo.cn/1757138607/follow at position 20 error; time out!
+21:27:12Following http://weibo.cn/1757138607/follow at position 20 error; try again!
+21:27:12Following http://weibo.cn/1757138607/follow at position 20 error; try again!
+21:27:12Following http://weibo.cn/1757138607/follow at position 20 error; try again!
+21:29:39devottco error,try again!
+21:31:46Following http://weibo.cn/3877686031/follow at position 13 error; time out!
+21:31:46Following http://weibo.cn/3877686031/follow at position 13 error; try again!
+21:31:46Following http://weibo.cn/3877686031/follow at position 13 error; try again!
+21:31:46Following http://weibo.cn/3877686031/follow at position 13 error; try again!
+21:31:46Following http://weibo.cn/3877686031/follow at position 14 error; time out!
+21:32:32Following http://weibo.cn/2674358195/follow at position 17 error; time out!
+21:32:32Following http://weibo.cn/2674358195/follow at position 17 error; try again!
+21:32:32Following http://weibo.cn/2674358195/follow at position 17 error; try again!
+21:32:32Following http://weibo.cn/2674358195/follow at position 17 error; try again!
+21:33:03Following http://weibo.cn/1631501663/follow at position 18 error; try again!
+21:34:55Following http://weibo.cn/2080370121/follow at position 16 error; time out!
+21:34:55Following http://weibo.cn/2080370121/follow at position 16 error; try again!
+21:34:55Following http://weibo.cn/2080370121/follow at position 16 error; try again!
+21:34:55Following http://weibo.cn/2080370121/follow at position 16 error; try again!
+21:35:23Following http://weibo.cn/2518586217/follow at position 15 error; try again!
+21:36:39Following http://weibo.cn/3889340967/follow at position 8 error; try again!
+21:49:28  Following http://weibo.cn/5331461404/follow at position 5 error; try again!
+21:50:25  Following http://weibo.cn/3798097970/follow at position 3 error; time out!
+21:50:25  Following http://weibo.cn/3798097970/follow at position 3 error; try again!
+21:50:25  Following http://weibo.cn/3798097970/follow at position 3 error; try again!
+21:50:25  Following http://weibo.cn/3798097970/follow at position 3 error; try again!
+21:51:28  Following http://weibo.cn/3967693752/follow at position 6 error; try again!
+21:51:28  Following http://weibo.cn/3967693752/follow at position 6 error; try again!
+21:51:48  Following http://weibo.cn/1639780001/follow at position 5 error; try again!
+21:52:48  Following http://weibo.cn/1846075415/follow at position 17 error; time out!
+21:52:48  Following http://weibo.cn/1846075415/follow at position 17 error; try again!
+21:52:48  Following http://weibo.cn/1846075415/follow at position 17 error; try again!
+21:52:48  Following http://weibo.cn/1846075415/follow at position 17 error; try again!
+21:54:06  Following http://weibo.cn/1740567372/follow at position 16 error; try again!
+21:56:24  Following http://weibo.cn/1895548877/follow at position 14 error; time out!
+21:56:24  Following http://weibo.cn/1895548877/follow at position 14 error; try again!
+21:56:24  Following http://weibo.cn/1895548877/follow at position 14 error; try again!
+21:56:24  Following http://weibo.cn/1895548877/follow at position 14 error; try again!
+21:56:26  Following http://weibo.cn/1895548877/follow at position 17 error; time out!
+21:56:27  Following http://weibo.cn/1895548877/follow at position 18 error; time out!
+21:56:27  Following http://weibo.cn/1895548877/follow at position 19 error; time out!
+21:56:29  Following http://weibo.cn/1895548877/follow at position 20 error; time out!
+21:57:53  Following http://weibo.cn/1416828450/follow at position 18 error; time out!
+21:57:53  Following http://weibo.cn/1416828450/follow at position 18 error; try again!
+21:57:53  Following http://weibo.cn/1416828450/follow at position 18 error; try again!
+21:57:53  Following http://weibo.cn/1416828450/follow at position 18 error; try again!
+21:57:54  Following http://weibo.cn/1416828450/follow at position 19 error; time out!
+21:57:57  hebaoguo error,try again!
+21:58:07  hebaoguo error,try again!
+21:58:17  Query index hebaoguo time out!
+21:58:57  Following http://weibo.cn/3688827010/follow at position 7 error; time out!
+21:58:57  Following http://weibo.cn/3688827010/follow at position 7 error; try again!
+21:58:57  Following http://weibo.cn/3688827010/follow at position 7 error; try again!
+21:58:57  Following http://weibo.cn/3688827010/follow at position 7 error; try again!
+21:58:57  Following http://weibo.cn/3688827010/follow at position 8 error; time out!
+21:58:58  Following http://weibo.cn/3688827010/follow at position 9 error; time out!
+21:58:59  Following http://weibo.cn/3688827010/follow at position 10 error; time out!
+21:59:00  Following http://weibo.cn/3688827010/follow at position 11 error; time out!
+21:59:00  Following http://weibo.cn/3688827010/follow at position 12 error; time out!
+21:59:07  315550830 error,try again!
+22:02:16  Following http://weibo.cn/3546126822/follow at position 14 error; time out!
+22:02:16  Following http://weibo.cn/3546126822/follow at position 14 error; try again!
+22:02:16  Following http://weibo.cn/3546126822/follow at position 14 error; try again!
+22:02:16  Following http://weibo.cn/3546126822/follow at position 14 error; try again!
+22:05:29  Following http://weibo.cn/1851886860/follow at position 10 error; try again!
+22:07:01  Following http://weibo.cn/5749042654/follow at position 4 error; time out!
+22:07:01  Following http://weibo.cn/5749042654/follow at position 4 error; try again!
+22:07:01  Following http://weibo.cn/5749042654/follow at position 4 error; try again!
+22:07:01  Following http://weibo.cn/5749042654/follow at position 4 error; try again!
+22:07:53  Following http://weibo.cn/1647901175/follow at position 4 error; time out!
+22:07:53  Following http://weibo.cn/1647901175/follow at position 4 error; try again!
+22:07:53  Following http://weibo.cn/1647901175/follow at position 4 error; try again!
+22:07:53  Following http://weibo.cn/1647901175/follow at position 4 error; try again!
+22:08:59  Following http://weibo.cn/2049825267/follow at position 16 error; time out!
+22:08:59  Following http://weibo.cn/2049825267/follow at position 16 error; try again!
+22:08:59  Following http://weibo.cn/2049825267/follow at position 16 error; try again!
+22:08:59  Following http://weibo.cn/2049825267/follow at position 16 error; try again!
+22:13:00  Following http://weibo.cn/1251331737/follow at position 11 error; try again!
+22:13:42  Following http://weibo.cn/2602430913/follow at position 18 error; time out!
+22:13:42  Following http://weibo.cn/2602430913/follow at position 18 error; try again!
+22:13:42  Following http://weibo.cn/2602430913/follow at position 18 error; try again!
+22:13:42  Following http://weibo.cn/2602430913/follow at position 18 error; try again!
+22:14:25  Following http://weibo.cn/2403328634/follow at position 8 error; try again!
+22:15:01  Following http://weibo.cn/1800303483/follow at position 9 error; try again!
+22:15:23  Following http://weibo.cn/1722380401/follow at position 7 error; time out!
+22:15:23  Following http://weibo.cn/1722380401/follow at position 7 error; try again!
+22:15:23  Following http://weibo.cn/1722380401/follow at position 7 error; try again!
+22:15:23  Following http://weibo.cn/1722380401/follow at position 7 error; try again!
+22:15:24  Following http://weibo.cn/1800303483/follow at position 10 error; try again!
+22:15:24  Following http://weibo.cn/1800303483/follow at position 10 error; try again!
+22:15:24  Following http://weibo.cn/1722380401/follow at position 8 error; time out!
+22:15:26  Following http://weibo.cn/1800303483/follow at position 11 error; time out!
+22:15:26  Following http://weibo.cn/1722380401/follow at position 10 error; time out!
+22:15:27  Following http://weibo.cn/1800303483/follow at position 12 error; time out!
+22:15:29  Following http://weibo.cn/1722380401/follow at position 12 error; time out!
+22:15:30  Following http://weibo.cn/1722380401/follow at position 13 error; time out!
+22:15:30  Following http://weibo.cn/1800303483/follow at position 15 error; time out!
+22:15:31  Following http://weibo.cn/1722380401/follow at position 14 error; time out!
+22:15:32  Following http://weibo.cn/1800303483/follow at position 16 error; time out!
+22:15:33  Following http://weibo.cn/1722380401/follow at position 15 error; time out!
+22:15:34  Following http://weibo.cn/1800303483/follow at position 18 error; time out!
+22:15:35  Following http://weibo.cn/1800303483/follow at position 19 error; time out!
+22:15:36  Following http://weibo.cn/1800303483/follow at position 20 error; time out!
+22:15:38  2450724134 error,try again!
+22:15:39  Following http://weibo.cn/1722380401/follow at position 20 error; time out!
+22:15:40  3886712384 error,try again!
+22:15:48  2450724134 error,try again!
+22:15:50  3886712384 error,try again!
+22:15:58  Query index 2450724134 time out!
+22:16:00  3886712384 error,try again!
+22:16:10  3886712384 error,try again!
+22:16:20  Query index 3886712384 time out!
+22:16:22  cqtsp error,try again!
+22:16:32  cqtsp error,try again!
+22:16:34  2373910103 error,try again!
+22:16:42  cqtsp error,try again!
+22:16:52  cqtsp error,try again!
+22:17:02  cqtsp error,try again!
+22:17:12  Query index cqtsp time out!
+22:17:13  1887328887 error,try again!
+22:17:23  1887328887 error,try again!
+22:17:33  1887328887 error,try again!
+22:17:43  1887328887 error,try again!
+22:17:53  1887328887 error,try again!
+22:18:03  Query index 1887328887 time out!
+22:18:20  Following http://weibo.cn/1774345225/follow at position 5 error; try again!
+22:18:32  Following http://weibo.cn/1774345225/follow at position 6 error; try again!
+22:18:44  Following http://weibo.cn/1774345225/follow at position 7 error; time out!
+22:18:44  Following http://weibo.cn/1774345225/follow at position 7 error; try again!
+22:18:45  Following http://weibo.cn/1774345225/follow at position 8 error; time out!
+22:18:47  Following http://weibo.cn/1774345225/follow at position 9 error; time out!
+22:18:48  Following http://weibo.cn/1774345225/follow at position 10 error; time out!
+22:18:49  Following http://weibo.cn/1774345225/follow at position 11 error; time out!
+22:18:50  Following http://weibo.cn/1774345225/follow at position 12 error; time out!
+22:18:52  Following http://weibo.cn/1774345225/follow at position 14 error; time out!
+22:19:35  Following http://weibo.cn/5575224947/follow at position 2 error; try again!
+22:19:35  Following http://weibo.cn/5575224947/follow at position 2 error; try again!
+22:19:35  Following http://weibo.cn/5575224947/follow at position 2 error; try again!
+22:19:36  Following http://weibo.cn/5575224947/follow at position 3 error; time out!
+22:19:38  Following http://weibo.cn/5575224947/follow at position 5 error; time out!
+22:19:40  Following http://weibo.cn/5575224947/follow at position 7 error; time out!
+22:19:44  Following http://weibo.cn/5575224947/follow at position 9 error; time out!
+22:19:46  Following http://weibo.cn/5575224947/follow at position 12 error; time out!
+22:19:47  Following http://weibo.cn/5575224947/follow at position 13 error; time out!
+22:19:48  2822813441 error,try again!
+22:19:48  Following http://weibo.cn/5575224947/follow at position 14 error; time out!
+22:19:49  Following http://weibo.cn/5575224947/follow at position 15 error; time out!
+22:19:50  Following http://weibo.cn/5575224947/follow at position 16 error; time out!
+22:19:52  Following http://weibo.cn/5575224947/follow at position 17 error; time out!
+22:19:53  Following http://weibo.cn/5575224947/follow at position 19 error; time out!
+22:19:58  2822813441 error,try again!
+22:20:08  Query index 2822813441 time out!
+22:20:09  5686825868 error,try again!
+22:20:19  Following http://weibo.cn/1831903614/follow at position 1 error; try again!
+22:20:19  Following http://weibo.cn/1831903614/follow at position 1 error; try again!
+22:20:19  5686825868 error,try again!
+22:20:29  5686825868 error,try again!
+22:20:33  Following http://weibo.cn/1831903614/follow at position 4 error; time out!
+22:20:33  Following http://weibo.cn/1831903614/follow at position 4 error; try again!
+22:20:34  Following http://weibo.cn/1831903614/follow at position 5 error; time out!
+22:20:35  Following http://weibo.cn/1831903614/follow at position 6 error; time out!
+22:20:38  Following http://weibo.cn/1831903614/follow at position 8 error; time out!
+22:20:39  Following http://weibo.cn/1831903614/follow at position 9 error; time out!
+22:20:39  5686825868 error,try again!
+22:20:40  Following http://weibo.cn/1831903614/follow at position 10 error; time out!
+22:20:41  Following http://weibo.cn/1831903614/follow at position 11 error; time out!
+22:20:43  Following http://weibo.cn/1831903614/follow at position 13 error; time out!
+22:20:45  Following http://weibo.cn/1831903614/follow at position 14 error; time out!
+22:20:46  Following http://weibo.cn/1831903614/follow at position 15 error; time out!
+22:20:48  Following http://weibo.cn/1831903614/follow at position 18 error; time out!
+22:20:49  5686825868 error,try again!
+22:20:51  Following http://weibo.cn/1831903614/follow at position 19 error; time out!
+22:20:55  Following http://weibo.cn/1831903614/follow at position 20 error; time out!
+22:20:57  Amric error,try again!
+22:20:59  Query index 5686825868 time out!
+22:21:01  risingantivirus error,try again!
+22:21:07  Amric error,try again!
+22:21:11  risingantivirus error,try again!
+22:21:17  Amric error,try again!
+22:21:21  risingantivirus error,try again!
+22:21:27  Amric error,try again!
+22:21:31  risingantivirus error,try again!
+22:21:37  Amric error,try again!
+22:21:41  risingantivirus error,try again!
+22:21:47  Query index Amric time out!
+22:21:48  1991641571 error,try again!
+22:21:51  Query index risingantivirus time out!
+22:21:52  todaytangjihede error,try again!
+22:21:58  1991641571 error,try again!
+22:22:02  todaytangjihede error,try again!
+22:22:08  1991641571 error,try again!
+22:22:12  todaytangjihede error,try again!
+22:22:18  1991641571 error,try again!
+22:22:28  1991641571 error,try again!
+22:22:38  Query index 1991641571 time out!
+22:22:40  5156580621 error,try again!
+22:22:50  5156580621 error,try again!
+22:23:00  5156580621 error,try again!
+22:23:10  5156580621 error,try again!
+22:23:20  5156580621 error,try again!
+22:23:30  Query index 5156580621 time out!
+22:23:31  likuangyao error,try again!
+22:23:41  likuangyao error,try again!
+22:23:51  likuangyao error,try again!
+22:24:01  likuangyao error,try again!
+22:24:11  likuangyao error,try again!
+22:24:21  Query index likuangyao time out!
+22:24:23  1939989673 error,try again!
+22:24:33  1939989673 error,try again!
+22:24:43  1939989673 error,try again!
+22:24:53  1939989673 error,try again!
+22:25:03  1939989673 error,try again!
+22:25:13  Query index 1939989673 time out!
+22:25:14  1683458081 error,try again!
+22:25:24  1683458081 error,try again!
+22:25:34  1683458081 error,try again!
+22:25:44  1683458081 error,try again!
+22:25:54  1683458081 error,try again!
+22:26:04  Query index 1683458081 time out!
+22:26:41  Following http://weibo.cn/2011588863/follow at position 2 error; try again!
+22:26:41  Following http://weibo.cn/2011588863/follow at position 2 error; try again!
+22:26:41  Following http://weibo.cn/2011588863/follow at position 2 error; try again!
+22:26:43  Following http://weibo.cn/2011588863/follow at position 4 error; time out!
+22:26:44  Following http://weibo.cn/2011588863/follow at position 5 error; time out!
+22:26:45  Following http://weibo.cn/2011588863/follow at position 6 error; time out!
+22:26:47  Following http://weibo.cn/2011588863/follow at position 7 error; time out!
+22:26:49  Following http://weibo.cn/2011588863/follow at position 10 error; time out!
+22:26:50  Following http://weibo.cn/2011588863/follow at position 11 error; time out!
+22:26:51  Following http://weibo.cn/2011588863/follow at position 12 error; time out!
+22:26:54  Following http://weibo.cn/2011588863/follow at position 14 error; time out!
+22:26:57  Following http://weibo.cn/2011588863/follow at position 18 error; time out!
+22:26:59  Following http://weibo.cn/2011588863/follow at position 19 error; time out!
+22:27:00  Following http://weibo.cn/2011588863/follow at position 20 error; time out!
+22:27:16  Following http://weibo.cn/1425584367/follow at position 3 error; try again!
+22:27:41  Following http://weibo.cn/1425584367/follow at position 6 error; time out!
+22:27:41  Following http://weibo.cn/1425584367/follow at position 6 error; try again!
+22:27:41  Following http://weibo.cn/1425584367/follow at position 6 error; try again!
+22:27:42  Following http://weibo.cn/1425584367/follow at position 7 error; time out!
+22:27:44  Following http://weibo.cn/1425584367/follow at position 9 error; time out!
+22:27:46  Following http://weibo.cn/1425584367/follow at position 11 error; time out!
+22:27:47  Following http://weibo.cn/1425584367/follow at position 12 error; time out!
+22:27:48  Following http://weibo.cn/1425584367/follow at position 13 error; time out!
+22:27:50  Following http://weibo.cn/1425584367/follow at position 15 error; time out!
+22:27:54  Following http://weibo.cn/1425584367/follow at position 17 error; time out!
+22:27:55  Following http://weibo.cn/1425584367/follow at position 18 error; time out!
+22:27:56  Following http://weibo.cn/1425584367/follow at position 19 error; time out!
+22:27:57  Following http://weibo.cn/1425584367/follow at position 20 error; time out!
+22:28:26  Following http://weibo.cn/5040955225/follow at position 2 error; try again!
+22:28:26  Following http://weibo.cn/5040955225/follow at position 2 error; try again!
+22:28:38  Following http://weibo.cn/5040955225/follow at position 3 error; try again!
+22:28:39  Following http://weibo.cn/5040955225/follow at position 4 error; time out!
+22:28:42  Following http://weibo.cn/5040955225/follow at position 6 error; time out!
+22:28:44  Following http://weibo.cn/5040955225/follow at position 7 error; time out!
+22:28:45  Following http://weibo.cn/5040955225/follow at position 8 error; time out!
+22:28:46  Following http://weibo.cn/5040955225/follow at position 9 error; time out!
+22:28:47  Following http://weibo.cn/5040955225/follow at position 10 error; time out!
+22:28:49  Following http://weibo.cn/5040955225/follow at position 11 error; time out!
+22:28:50  Following http://weibo.cn/5040955225/follow at position 12 error; time out!
+22:28:52  Following http://weibo.cn/5040955225/follow at position 14 error; time out!
+22:28:55  Following http://weibo.cn/5040955225/follow at position 15 error; time out!
+22:28:56  Following http://weibo.cn/5040955225/follow at position 17 error; time out!
+22:28:58  Following http://weibo.cn/5040955225/follow at position 19 error; time out!
+22:28:59  Following http://weibo.cn/5040955225/follow at position 20 error; time out!
+22:29:35  Following http://weibo.cn/1774427450/follow at position 1 error; try again!
+22:29:35  Following http://weibo.cn/1774427450/follow at position 1 error; try again!
+22:29:35  Following http://weibo.cn/1774427450/follow at position 1 error; try again!
+22:29:36  Following http://weibo.cn/1774427450/follow at position 3 error; time out!
+22:29:40  Following http://weibo.cn/1774427450/follow at position 5 error; time out!
+22:29:41  Following http://weibo.cn/1774427450/follow at position 6 error; time out!
+22:29:43  Following http://weibo.cn/1774427450/follow at position 8 error; time out!
+22:29:44  Following http://weibo.cn/1774427450/follow at position 9 error; time out!
+22:29:45  Following http://weibo.cn/1774427450/follow at position 10 error; time out!
+22:29:48  Following http://weibo.cn/1774427450/follow at position 13 error; time out!
+22:29:49  Following http://weibo.cn/1774427450/follow at position 14 error; time out!
+22:29:53  Following http://weibo.cn/1774427450/follow at position 18 error; time out!
+22:29:54  Following http://weibo.cn/1774427450/follow at position 19 error; time out!
+22:29:56  sudixiaoqi error,try again!
+22:30:06  sudixiaoqi error,try again!
+22:30:16  sudixiaoqi error,try again!
+22:30:26  sudixiaoqi error,try again!
+22:30:36  sudixiaoqi error,try again!
+22:30:46  Query index sudixiaoqi time out!
+22:30:52  iphelp error,try again!
+22:31:03  iphelp error,try again!
+22:31:13  iphelp error,try again!
+22:31:23  iphelp error,try again!
+22:31:33  iphelp error,try again!
+22:31:43  Query index iphelp time out!
+22:31:44  alice100822005 error,try again!
+22:31:54  alice100822005 error,try again!
+22:32:04  alice100822005 error,try again!
+22:32:14  alice100822005 error,try again!
+22:32:24  alice100822005 error,try again!
+22:32:34  Query index alice100822005 time out!
+22:32:35  2573775463 error,try again!
+22:32:45  2573775463 error,try again!
+22:32:55  2573775463 error,try again!
+22:33:05  2573775463 error,try again!
+22:33:15  2573775463 error,try again!
+22:33:25  Query index 2573775463 time out!
+22:33:41  Following http://weibo.cn/1780928645/follow at position 1 error; try again!
+22:34:04  Following http://weibo.cn/1780928645/follow at position 2 error; try again!
+22:34:04  Following http://weibo.cn/1780928645/follow at position 2 error; try again!
+22:34:05  Following http://weibo.cn/1780928645/follow at position 3 error; time out!
+22:34:07  Following http://weibo.cn/1780928645/follow at position 4 error; time out!
+22:34:09  Following http://weibo.cn/1780928645/follow at position 5 error; time out!
+22:34:10  Following http://weibo.cn/1780928645/follow at position 6 error; time out!
+22:34:13  Following http://weibo.cn/1780928645/follow at position 7 error; time out!
+22:34:14  Following http://weibo.cn/1780928645/follow at position 8 error; time out!
+22:34:15  Following http://weibo.cn/1780928645/follow at position 9 error; time out!
+22:34:17  Following http://weibo.cn/1780928645/follow at position 10 error; time out!
+22:34:18  Following http://weibo.cn/1780928645/follow at position 12 error; time out!
+22:34:20  Following http://weibo.cn/1780928645/follow at position 13 error; time out!
+22:34:21  Following http://weibo.cn/1780928645/follow at position 14 error; time out!
+22:34:23  Following http://weibo.cn/1780928645/follow at position 16 error; time out!
+22:34:24  Following http://weibo.cn/1780928645/follow at position 18 error; time out!
+22:34:26  Following http://weibo.cn/1780928645/follow at position 19 error; time out!
+22:34:28  baluwatar error,try again!
+22:34:38  baluwatar error,try again!
+22:34:48  baluwatar error,try again!
+22:34:58  baluwatar error,try again!
+22:35:08  baluwatar error,try again!
+22:35:18  Query index baluwatar time out!
+22:35:21  3076137491 error,try again!
+22:35:31  3076137491 error,try again!
+22:35:41  3076137491 error,try again!
+22:35:51  3076137491 error,try again!
+22:36:01  3076137491 error,try again!
+22:36:11  Query index 3076137491 time out!
+22:36:14  whrm error,try again!
+22:36:25  whrm error,try again!
+22:36:35  whrm error,try again!
+22:36:45  whrm error,try again!
+22:36:55  whrm error,try again!
+22:37:05  Query index whrm time out!
+22:37:07  softshock error,try again!
+22:37:17  softshock error,try again!
+22:37:24  xujian56 error,try again!
+22:37:27  softshock error,try again!
+22:37:34  xujian56 error,try again!
+22:37:37  softshock error,try again!
+22:37:47  softshock error,try again!
+22:37:57  Query index softshock time out!
+22:38:32  Following http://weibo.cn/2711070427/follow at position 1 error; time out!
+22:38:32  Following http://weibo.cn/2711070427/follow at position 1 error; try again!
+22:38:32  Following http://weibo.cn/2711070427/follow at position 1 error; try again!
+22:38:32  Following http://weibo.cn/2711070427/follow at position 1 error; try again!
+22:38:33  Following http://weibo.cn/2711070427/follow at position 2 error; time out!
+22:38:34  Following http://weibo.cn/2711070427/follow at position 3 error; time out!
+22:38:40  Following http://weibo.cn/2711070427/follow at position 9 error; time out!
+22:38:43  Following http://weibo.cn/2711070427/follow at position 12 error; time out!
+22:38:44  Following http://weibo.cn/2711070427/follow at position 13 error; time out!
+22:38:45  Following http://weibo.cn/2711070427/follow at position 14 error; time out!
+22:38:46  Following http://weibo.cn/2711070427/follow at position 15 error; time out!
+22:38:47  Following http://weibo.cn/2711070427/follow at position 16 error; time out!
+22:38:48  Following http://weibo.cn/2711070427/follow at position 17 error; time out!
+22:38:49  Following http://weibo.cn/2711070427/follow at position 18 error; time out!
+22:38:50  Following http://weibo.cn/2711070427/follow at position 19 error; time out!
+22:38:52  2732364404 error,try again!
+22:39:02  2732364404 error,try again!
+22:39:12  2732364404 error,try again!
+22:39:22  2732364404 error,try again!
+22:39:32  2732364404 error,try again!
+22:39:42  Query index 2732364404 time out!
+22:39:43  5078307660 error,try again!
+22:39:53  5078307660 error,try again!
+22:40:03  5078307660 error,try again!
+22:40:13  5078307660 error,try again!
+22:40:23  5078307660 error,try again!
+22:40:33  Query index 5078307660 time out!
+22:40:35  uiber error,try again!
+22:40:45  uiber error,try again!
+22:40:55  uiber error,try again!
+22:41:05  uiber error,try again!
+22:41:15  uiber error,try again!
+22:41:25  Query index uiber time out!
+22:41:26  809004438 error,try again!
+22:41:36  809004438 error,try again!
+22:41:46  809004438 error,try again!
+22:41:56  809004438 error,try again!
+22:42:06  809004438 error,try again!
+22:42:16  Query index 809004438 time out!
+22:42:17  1765845003 error,try again!
+22:42:27  1765845003 error,try again!
+22:42:37  1765845003 error,try again!
+22:42:47  1765845003 error,try again!
+22:42:57  1765845003 error,try again!
+22:43:07  Query index 1765845003 time out!
+22:43:08  5066652588 error,try again!
+22:43:18  5066652588 error,try again!
+22:43:28  5066652588 error,try again!
+22:43:38  5066652588 error,try again!
+22:43:48  5066652588 error,try again!
+22:43:58  Query index 5066652588 time out!
+22:44:34  Following http://weibo.cn/2653855622/follow at position 2 error; time out!
+22:44:34  Following http://weibo.cn/2653855622/follow at position 2 error; try again!
+22:44:34  Following http://weibo.cn/2653855622/follow at position 2 error; try again!
+22:44:34  Following http://weibo.cn/2653855622/follow at position 2 error; try again!
+22:44:36  Following http://weibo.cn/2653855622/follow at position 5 error; time out!
+22:44:40  Following http://weibo.cn/2653855622/follow at position 6 error; time out!
+22:44:42  Following http://weibo.cn/2653855622/follow at position 8 error; time out!
+22:44:43  Following http://weibo.cn/2653855622/follow at position 9 error; time out!
+22:44:44  Following http://weibo.cn/2653855622/follow at position 10 error; time out!
+22:44:45  Following http://weibo.cn/2653855622/follow at position 11 error; time out!
+22:44:47  Following http://weibo.cn/2653855622/follow at position 12 error; time out!
+22:44:48  Following http://weibo.cn/2653855622/follow at position 13 error; time out!
+22:44:50  Following http://weibo.cn/2653855622/follow at position 16 error; time out!
+22:44:51  Following http://weibo.cn/2653855622/follow at position 17 error; time out!
+22:44:53  Following http://weibo.cn/2653855622/follow at position 18 error; time out!
+22:45:06  Following http://weibo.cn/2641051804/follow at position 1 error; try again!
+22:45:31  Following http://weibo.cn/2641051804/follow at position 3 error; time out!
+22:45:31  Following http://weibo.cn/2641051804/follow at position 3 error; try again!
+22:45:31  Following http://weibo.cn/2641051804/follow at position 3 error; try again!
+22:45:32  Following http://weibo.cn/2641051804/follow at position 4 error; time out!
+22:45:33  Following http://weibo.cn/2641051804/follow at position 5 error; time out!
+22:45:35  Following http://weibo.cn/2641051804/follow at position 8 error; time out!
+22:45:36  Following http://weibo.cn/2641051804/follow at position 9 error; time out!
+22:45:38  Following http://weibo.cn/2641051804/follow at position 11 error; time out!
+22:45:41  Following http://weibo.cn/2641051804/follow at position 14 error; time out!
+22:45:42  Following http://weibo.cn/2641051804/follow at position 15 error; time out!
+22:45:43  Following http://weibo.cn/2641051804/follow at position 16 error; time out!
+22:45:44  Following http://weibo.cn/2641051804/follow at position 17 error; time out!
+22:45:47  Following http://weibo.cn/2641051804/follow at position 19 error; time out!
+22:45:49  Following http://weibo.cn/2641051804/follow at position 20 error; time out!
+22:46:25  Following http://weibo.cn/1644983267/follow at position 1 error; time out!
+22:46:25  Following http://weibo.cn/1644983267/follow at position 1 error; try again!
+22:46:25  Following http://weibo.cn/1644983267/follow at position 1 error; try again!
+22:46:25  Following http://weibo.cn/1644983267/follow at position 1 error; try again!
+22:46:26  Following http://weibo.cn/1644983267/follow at position 2 error; time out!
+22:46:29  Following http://weibo.cn/1644983267/follow at position 6 error; time out!
+22:46:32  Following http://weibo.cn/1644983267/follow at position 10 error; time out!
+22:46:33  Following http://weibo.cn/1644983267/follow at position 11 error; time out!
+22:46:34  Following http://weibo.cn/1644983267/follow at position 12 error; time out!
+22:46:36  Following http://weibo.cn/1644983267/follow at position 14 error; time out!
+22:46:38  Following http://weibo.cn/1644983267/follow at position 16 error; time out!
+22:46:39  Following http://weibo.cn/1644983267/follow at position 18 error; time out!
+22:46:40  Following http://weibo.cn/1644983267/follow at position 19 error; time out!
+22:46:43  3867879858 error,try again!
+22:46:53  3867879858 error,try again!
+22:47:03  3867879858 error,try again!
+22:47:13  3867879858 error,try again!
+22:47:23  3867879858 error,try again!
+22:47:33  Query index 3867879858 time out!
+22:48:10  Following http://weibo.cn/2129867007/follow at position 2 error; time out!
+22:48:10  Following http://weibo.cn/2129867007/follow at position 2 error; try again!
+22:48:10  Following http://weibo.cn/2129867007/follow at position 2 error; try again!
+22:48:10  Following http://weibo.cn/2129867007/follow at position 2 error; try again!
+22:48:11  Following http://weibo.cn/2129867007/follow at position 3 error; time out!
+22:48:12  Following http://weibo.cn/2129867007/follow at position 4 error; time out!
+22:48:13  Following http://weibo.cn/2129867007/follow at position 5 error; time out!
+22:48:15  Following http://weibo.cn/2129867007/follow at position 7 error; time out!
+22:48:20  Following http://weibo.cn/2129867007/follow at position 11 error; time out!
+22:48:21  Following http://weibo.cn/2129867007/follow at position 12 error; time out!
+22:48:22  Following http://weibo.cn/2129867007/follow at position 13 error; time out!
+22:48:23  Following http://weibo.cn/2129867007/follow at position 14 error; time out!
+22:48:25  Following http://weibo.cn/2129867007/follow at position 16 error; time out!
+22:48:26  Following http://weibo.cn/2129867007/follow at position 17 error; time out!
+22:48:28  Following http://weibo.cn/2129867007/follow at position 19 error; time out!
+22:48:29  Following http://weibo.cn/2129867007/follow at position 20 error; time out!
+22:48:30  602717200 error,try again!
+22:48:40  602717200 error,try again!
+22:48:50  602717200 error,try again!
+22:49:00  602717200 error,try again!
+22:49:10  602717200 error,try again!
+22:49:20  Query index 602717200 time out!
+22:49:33  Following http://weibo.cn/1580520591/follow at position 1 error; try again!
+22:49:56  Following http://weibo.cn/1580520591/follow at position 2 error; try again!
+22:49:56  Following http://weibo.cn/1580520591/follow at position 2 error; try again!
+22:49:57  Following http://weibo.cn/1580520591/follow at position 3 error; time out!
+22:50:00  Following http://weibo.cn/1580520591/follow at position 6 error; time out!
+22:50:01  Following http://weibo.cn/1580520591/follow at position 8 error; time out!
+22:50:04  Following http://weibo.cn/1580520591/follow at position 12 error; time out!
+22:50:06  Following http://weibo.cn/1580520591/follow at position 14 error; time out!
+22:50:07  Following http://weibo.cn/1580520591/follow at position 15 error; time out!
+22:50:09  Following http://weibo.cn/1580520591/follow at position 16 error; time out!
+22:50:10  Following http://weibo.cn/1580520591/follow at position 17 error; time out!
+22:50:11  napoleonxv error,try again!
+22:50:21  napoleonxv error,try again!
+22:50:31  napoleonxv error,try again!
+22:50:41  napoleonxv error,try again!
+22:50:51  napoleonxv error,try again!
+22:51:01  Query index napoleonxv time out!
+22:51:25  Following http://weibo.cn/1485084714/follow at position 1 error; try again!
+22:51:25  Following http://weibo.cn/1485084714/follow at position 1 error; try again!
+22:51:37  Following http://weibo.cn/1485084714/follow at position 2 error; try again!
+22:51:38  Following http://weibo.cn/1485084714/follow at position 3 error; time out!
+22:51:41  Following http://weibo.cn/1485084714/follow at position 5 error; time out!
+22:51:42  Following http://weibo.cn/1485084714/follow at position 6 error; time out!
+22:51:43  Following http://weibo.cn/1485084714/follow at position 7 error; time out!
+22:51:44  Following http://weibo.cn/1485084714/follow at position 8 error; time out!
+22:51:48  Following http://weibo.cn/1485084714/follow at position 12 error; time out!
+22:51:49  Following http://weibo.cn/1485084714/follow at position 13 error; time out!
+22:51:50  Following http://weibo.cn/1485084714/follow at position 14 error; time out!
+22:51:51  Following http://weibo.cn/1485084714/follow at position 15 error; time out!
+22:51:54  Following http://weibo.cn/1485084714/follow at position 17 error; time out!
+22:51:56  Following http://weibo.cn/1485084714/follow at position 19 error; time out!
+22:51:58  3732703293 error,try again!
+22:52:08  3732703293 error,try again!
+22:52:18  3732703293 error,try again!
+22:52:28  3732703293 error,try again!
+22:52:38  3732703293 error,try again!
+22:52:48  Query index 3732703293 time out!
+22:53:23  Following http://weibo.cn/1782818567/follow at position 1 error; try again!
+22:53:23  Following http://weibo.cn/1782818567/follow at position 1 error; try again!
+22:53:23  Following http://weibo.cn/1782818567/follow at position 1 error; try again!
+22:53:24  Following http://weibo.cn/1782818567/follow at position 2 error; time out!
+22:53:26  Following http://weibo.cn/1782818567/follow at position 4 error; time out!
+22:53:27  Following http://weibo.cn/1782818567/follow at position 5 error; time out!
+22:53:28  Following http://weibo.cn/1782818567/follow at position 6 error; time out!
+22:53:32  Following http://weibo.cn/1782818567/follow at position 11 error; time out!
+22:53:37  Following http://weibo.cn/1782818567/follow at position 16 error; time out!
+22:53:39  Following http://weibo.cn/1782818567/follow at position 18 error; time out!
+22:54:17  Following http://weibo.cn/5538230948/follow at position 1 error; time out!
+22:54:17  Following http://weibo.cn/5538230948/follow at position 1 error; try again!
+22:54:17  Following http://weibo.cn/5538230948/follow at position 1 error; try again!
+22:54:17  Following http://weibo.cn/5538230948/follow at position 1 error; try again!
+22:54:18  Following http://weibo.cn/5538230948/follow at position 2 error; time out!
+22:54:22  Following http://weibo.cn/5538230948/follow at position 7 error; time out!
+22:54:23  Following http://weibo.cn/5538230948/follow at position 8 error; time out!
+22:54:26  Following http://weibo.cn/5538230948/follow at position 13 error; time out!
+22:54:27  Following http://weibo.cn/5538230948/follow at position 14 error; time out!
+22:54:29  Following http://weibo.cn/5538230948/follow at position 17 error; time out!
+22:54:30  Following http://weibo.cn/5538230948/follow at position 18 error; time out!
+22:54:32  mushaner error,try again!
+22:54:42  mushaner error,try again!
+22:54:52  mushaner error,try again!
+22:55:02  mushaner error,try again!
+22:55:12  mushaner error,try again!
+22:55:22  Query index mushaner time out!
+22:55:59  Following http://weibo.cn/1097423660/follow at position 1 error; time out!
+22:55:59  Following http://weibo.cn/1097423660/follow at position 1 error; try again!
+22:55:59  Following http://weibo.cn/1097423660/follow at position 1 error; try again!
+22:55:59  Following http://weibo.cn/1097423660/follow at position 1 error; try again!
+22:56:35  Following http://weibo.cn/1035352165/follow at position 1 error; try again!
+22:56:35  Following http://weibo.cn/1035352165/follow at position 1 error; try again!
+22:56:35  Following http://weibo.cn/1035352165/follow at position 1 error; try again!
+22:56:36  Following http://weibo.cn/1035352165/follow at position 2 error; time out!
+22:56:37  Following http://weibo.cn/1035352165/follow at position 3 error; time out!
+22:56:40  Following http://weibo.cn/1035352165/follow at position 6 error; time out!
+22:56:41  Following http://weibo.cn/1035352165/follow at position 7 error; time out!
+22:56:42  Following http://weibo.cn/1035352165/follow at position 8 error; time out!
+22:56:44  Following http://weibo.cn/1035352165/follow at position 10 error; time out!
+22:56:46  Following http://weibo.cn/1035352165/follow at position 13 error; time out!
+22:56:49  Following http://weibo.cn/1035352165/follow at position 16 error; time out!
+22:56:53  Following http://weibo.cn/1035352165/follow at position 17 error; time out!
+22:56:54  Following http://weibo.cn/1035352165/follow at position 18 error; time out!
+22:56:57  2863134747 error,try again!
+22:57:07  2863134747 error,try again!
+22:57:17  2863134747 error,try again!
+22:57:27  2863134747 error,try again!
+22:57:37  2863134747 error,try again!
+22:57:47  Query index 2863134747 time out!
+22:57:50  1936042535 error,try again!
+22:58:00  1936042535 error,try again!
+22:58:10  1936042535 error,try again!
+22:58:20  1936042535 error,try again!
+22:58:30  1936042535 error,try again!
+22:58:40  Query index 1936042535 time out!
+22:58:42  5030071381 error,try again!
+22:58:52  5030071381 error,try again!
+22:59:02  5030071381 error,try again!
+22:59:12  5030071381 error,try again!
+22:59:22  5030071381 error,try again!
+22:59:32  Query index 5030071381 time out!
+23:00:03  Following http://weibo.cn/2194072380/follow at position 9 error; try again!
+23:00:03  Following http://weibo.cn/2194072380/follow at position 9 error; try again!
+23:00:15  Following http://weibo.cn/2194072380/follow at position 10 error; try again!
+23:00:16  Following http://weibo.cn/2194072380/follow at position 11 error; time out!
+23:00:17  Following http://weibo.cn/2194072380/follow at position 12 error; time out!
+23:00:18  Following http://weibo.cn/2194072380/follow at position 13 error; time out!
+23:00:19  Following http://weibo.cn/2194072380/follow at position 14 error; time out!
+23:00:21  Following http://weibo.cn/2194072380/follow at position 16 error; time out!
+23:00:22  Following http://weibo.cn/2194072380/follow at position 17 error; time out!
+23:00:23  Following http://weibo.cn/2194072380/follow at position 18 error; time out!
+23:00:25  Following http://weibo.cn/2194072380/follow at position 20 error; time out!
+23:00:39  Following http://weibo.cn/1280210260/follow at position 2 error; try again!
+23:00:51  Following http://weibo.cn/1280210260/follow at position 4 error; try again!
+23:01:04  Following http://weibo.cn/1280210260/follow at position 5 error; time out!
+23:01:04  Following http://weibo.cn/1280210260/follow at position 5 error; try again!
+23:01:05  Following http://weibo.cn/1280210260/follow at position 6 error; time out!
+23:01:06  Following http://weibo.cn/1280210260/follow at position 7 error; time out!
+23:01:11  Following http://weibo.cn/1280210260/follow at position 8 error; time out!
+23:01:15  Following http://weibo.cn/1280210260/follow at position 11 error; time out!
+23:01:17  Following http://weibo.cn/1280210260/follow at position 12 error; time out!
+23:01:18  Following http://weibo.cn/1280210260/follow at position 13 error; time out!
+23:01:19  Following http://weibo.cn/1280210260/follow at position 15 error; time out!
+23:01:21  Following http://weibo.cn/1280210260/follow at position 17 error; time out!
+23:01:22  Following http://weibo.cn/1280210260/follow at position 18 error; time out!
+23:01:24  Following http://weibo.cn/1280210260/follow at position 20 error; time out!
+23:01:48  Following http://weibo.cn/1557111167/follow at position 1 error; try again!
+23:01:48  Following http://weibo.cn/1557111167/follow at position 1 error; try again!
+23:02:00  Following http://weibo.cn/1557111167/follow at position 2 error; time out!
+23:02:00  Following http://weibo.cn/1557111167/follow at position 2 error; try again!
+23:02:01  Following http://weibo.cn/1557111167/follow at position 3 error; time out!
+23:02:04  Following http://weibo.cn/1557111167/follow at position 5 error; time out!
+23:02:06  Following http://weibo.cn/1557111167/follow at position 7 error; time out!
+23:02:07  Following http://weibo.cn/1557111167/follow at position 8 error; time out!
+23:02:08  Following http://weibo.cn/1557111167/follow at position 9 error; time out!
+23:02:09  Following http://weibo.cn/1557111167/follow at position 10 error; time out!
+23:02:10  Following http://weibo.cn/1557111167/follow at position 11 error; time out!
+23:02:11  Following http://weibo.cn/1557111167/follow at position 12 error; time out!
+23:02:12  Following http://weibo.cn/1557111167/follow at position 13 error; time out!
+23:02:13  Following http://weibo.cn/1557111167/follow at position 14 error; time out!
+23:02:14  Following http://weibo.cn/1557111167/follow at position 15 error; time out!
+23:02:16  Following http://weibo.cn/1557111167/follow at position 17 error; time out!
+23:02:17  Following http://weibo.cn/1557111167/follow at position 18 error; time out!
+23:02:18  Following http://weibo.cn/1557111167/follow at position 19 error; time out!
+23:02:19  Following http://weibo.cn/1557111167/follow at position 20 error; time out!
+23:02:37  Following http://weibo.cn/1824492425/follow at position 4 error; try again!
+23:02:50  Following http://weibo.cn/1824492425/follow at position 5 error; try again!
+23:03:03  Following http://weibo.cn/1824492425/follow at position 7 error; time out!
+23:03:03  Following http://weibo.cn/1824492425/follow at position 7 error; try again!
+23:03:04  Following http://weibo.cn/1824492425/follow at position 8 error; time out!
+23:03:05  Following http://weibo.cn/1824492425/follow at position 9 error; time out!
+23:03:06  Following http://weibo.cn/1824492425/follow at position 10 error; time out!
+23:03:07  Following http://weibo.cn/1824492425/follow at position 11 error; time out!
+23:03:08  Following http://weibo.cn/1824492425/follow at position 12 error; time out!
+23:03:09  Following http://weibo.cn/1824492425/follow at position 13 error; time out!
+23:03:16  Following http://weibo.cn/1824492425/follow at position 15 error; time out!
+23:03:17  Following http://weibo.cn/1824492425/follow at position 16 error; time out!
+23:03:18  Following http://weibo.cn/1824492425/follow at position 17 error; time out!
+23:03:20  Following http://weibo.cn/1824492425/follow at position 20 error; time out!
+23:03:33  Following http://weibo.cn/1080091042/follow at position 1 error; try again!
+23:03:56  Following http://weibo.cn/1080091042/follow at position 2 error; time out!
+23:03:56  Following http://weibo.cn/1080091042/follow at position 2 error; try again!
+23:03:56  Following http://weibo.cn/1080091042/follow at position 2 error; try again!
+23:03:58  Following http://weibo.cn/1080091042/follow at position 4 error; time out!
+23:03:59  Following http://weibo.cn/1080091042/follow at position 5 error; time out!
+23:04:00  Following http://weibo.cn/1080091042/follow at position 6 error; time out!
+23:04:01  Following http://weibo.cn/1080091042/follow at position 7 error; time out!
+23:04:03  Following http://weibo.cn/1080091042/follow at position 9 error; time out!
+23:04:04  Following http://weibo.cn/1080091042/follow at position 10 error; time out!
+23:04:07  Following http://weibo.cn/1080091042/follow at position 14 error; time out!
+23:04:09  Following http://weibo.cn/1080091042/follow at position 16 error; time out!
+23:04:10  Following http://weibo.cn/1080091042/follow at position 18 error; time out!
+23:04:11  Following http://weibo.cn/1080091042/follow at position 19 error; time out!
+23:04:12  Following http://weibo.cn/1080091042/follow at position 20 error; time out!
+23:04:14  hedongqu error,try again!
+23:04:24  hedongqu error,try again!
+23:04:34  hedongqu error,try again!
+23:04:44  hedongqu error,try again!
+23:04:54  hedongqu error,try again!
+23:05:04  Query index hedongqu time out!
+23:05:09  vivianwong error,try again!
+23:05:20  vivianwong error,try again!
+23:05:30  vivianwong error,try again!
+23:05:40  vivianwong error,try again!
+23:05:50  vivianwong error,try again!
+23:06:00  Query index vivianwong time out!
+23:06:35  Following http://weibo.cn/5643748634/follow at position 1 error; time out!
+23:06:35  Following http://weibo.cn/5643748634/follow at position 1 error; try again!
+23:06:35  Following http://weibo.cn/5643748634/follow at position 1 error; try again!
+23:06:35  Following http://weibo.cn/5643748634/follow at position 1 error; try again!
+23:06:37  Following http://weibo.cn/5643748634/follow at position 2 error; time out!
+23:06:38  Following http://weibo.cn/5643748634/follow at position 3 error; time out!
+23:06:40  Following http://weibo.cn/5643748634/follow at position 5 error; time out!
+23:06:42  Following http://weibo.cn/5643748634/follow at position 7 error; time out!
+23:06:45  Following http://weibo.cn/5643748634/follow at position 8 error; time out!
+23:06:49  Following http://weibo.cn/5643748634/follow at position 13 error; time out!
+23:06:51  Following http://weibo.cn/5643748634/follow at position 15 error; time out!
+23:06:52  Following http://weibo.cn/5643748634/follow at position 16 error; time out!
+23:06:53  Following http://weibo.cn/5643748634/follow at position 17 error; time out!
+23:06:55  Following http://weibo.cn/5643748634/follow at position 18 error; time out!
+23:06:56  Following http://weibo.cn/5643748634/follow at position 19 error; time out!
+23:06:57  Following http://weibo.cn/5643748634/follow at position 20 error; time out!
+23:07:21  Following http://weibo.cn/1649378385/follow at position 1 error; try again!
+23:07:21  Following http://weibo.cn/1649378385/follow at position 1 error; try again!
+23:07:34  Following http://weibo.cn/1649378385/follow at position 2 error; time out!
+23:07:34  Following http://weibo.cn/1649378385/follow at position 2 error; try again!
+23:07:36  Following http://weibo.cn/1649378385/follow at position 4 error; time out!
+23:07:37  Following http://weibo.cn/1649378385/follow at position 5 error; time out!
+23:07:38  Following http://weibo.cn/1649378385/follow at position 6 error; time out!
+23:07:42  Following http://weibo.cn/1649378385/follow at position 10 error; time out!
+23:07:43  Following http://weibo.cn/1649378385/follow at position 11 error; time out!
+23:07:44  Following http://weibo.cn/1649378385/follow at position 12 error; time out!
+23:07:48  Following http://weibo.cn/1649378385/follow at position 14 error; time out!
+23:07:49  Following http://weibo.cn/1649378385/follow at position 15 error; time out!
+23:07:51  Following http://weibo.cn/1649378385/follow at position 17 error; time out!
+23:07:52  Following http://weibo.cn/1649378385/follow at position 19 error; time out!
+23:07:54  Following http://weibo.cn/1649378385/follow at position 20 error; time out!
+23:08:29  Following http://weibo.cn/2497053864/follow at position 1 error; time out!
+23:08:29  Following http://weibo.cn/2497053864/follow at position 1 error; try again!
+23:08:29  Following http://weibo.cn/2497053864/follow at position 1 error; try again!
+23:08:29  Following http://weibo.cn/2497053864/follow at position 1 error; try again!
+23:08:30  Following http://weibo.cn/2497053864/follow at position 2 error; time out!
+23:08:33  Following http://weibo.cn/2497053864/follow at position 5 error; time out!
+23:08:34  Following http://weibo.cn/2497053864/follow at position 6 error; time out!
+23:08:35  Following http://weibo.cn/2497053864/follow at position 7 error; time out!
+23:08:36  Following http://weibo.cn/2497053864/follow at position 8 error; time out!
+23:08:40  Following http://weibo.cn/2497053864/follow at position 12 error; time out!
+23:08:41  Following http://weibo.cn/2497053864/follow at position 13 error; time out!
+23:08:42  Following http://weibo.cn/2497053864/follow at position 14 error; time out!
+23:08:44  Following http://weibo.cn/2497053864/follow at position 16 error; time out!
+23:08:46  Following http://weibo.cn/2497053864/follow at position 18 error; time out!
+23:08:48  Following http://weibo.cn/2497053864/follow at position 19 error; time out!
+23:08:49  Following http://weibo.cn/2497053864/follow at position 20 error; time out!
+23:08:51  thebeautifulones error,try again!
+23:09:01  thebeautifulones error,try again!
+23:09:11  thebeautifulones error,try again!
+23:09:21  thebeautifulones error,try again!
+23:09:31  thebeautifulones error,try again!
+23:09:41  Query index thebeautifulones time out!
+23:09:42  5668039809 error,try again!
+23:09:52  5668039809 error,try again!
+23:10:02  5668039809 error,try again!
+23:10:12  5668039809 error,try again!
+23:10:22  5668039809 error,try again!
+23:10:32  Query index 5668039809 time out!
+23:10:33  guyongqiang error,try again!
+23:10:43  guyongqiang error,try again!
+23:10:53  guyongqiang error,try again!
+23:11:03  guyongqiang error,try again!
+23:11:13  guyongqiang error,try again!
+23:11:23  Query index guyongqiang time out!
+23:12:01  Following http://weibo.cn/1653532061/follow at position 1 error; time out!
+23:12:01  Following http://weibo.cn/1653532061/follow at position 1 error; try again!
+23:12:01  Following http://weibo.cn/1653532061/follow at position 1 error; try again!
+23:12:01  Following http://weibo.cn/1653532061/follow at position 1 error; try again!
+23:12:02  Following http://weibo.cn/1653532061/follow at position 2 error; time out!
+23:12:06  Following http://weibo.cn/1653532061/follow at position 5 error; time out!
+23:12:07  Following http://weibo.cn/1653532061/follow at position 6 error; time out!
+23:12:08  Following http://weibo.cn/1653532061/follow at position 8 error; time out!
+23:12:09  Following http://weibo.cn/1653532061/follow at position 9 error; time out!
+23:12:10  Following http://weibo.cn/1653532061/follow at position 10 error; time out!
+23:12:12  Following http://weibo.cn/1653532061/follow at position 12 error; time out!
+23:12:14  Following http://weibo.cn/1653532061/follow at position 14 error; time out!
+23:12:15  Following http://weibo.cn/1653532061/follow at position 15 error; time out!
+23:12:16  Following http://weibo.cn/1653532061/follow at position 16 error; time out!
+23:12:17  Following http://weibo.cn/1653532061/follow at position 17 error; time out!
+23:12:21  Following http://weibo.cn/1653532061/follow at position 18 error; time out!
+23:12:22  Following http://weibo.cn/1653532061/follow at position 19 error; time out!
+23:12:23  Following http://weibo.cn/1653532061/follow at position 20 error; time out!
+23:12:37  Following http://weibo.cn/1513918040/follow at position 1 error; try again!
+23:13:01  Following http://weibo.cn/1513918040/follow at position 3 error; try again!
+23:13:01  Following http://weibo.cn/1513918040/follow at position 3 error; try again!
+23:13:02  Following http://weibo.cn/1513918040/follow at position 4 error; time out!
+23:13:03  Following http://weibo.cn/1513918040/follow at position 6 error; time out!
+23:13:05  Following http://weibo.cn/1513918040/follow at position 7 error; time out!
+23:13:07  Following http://weibo.cn/1513918040/follow at position 9 error; time out!
+23:13:10  Following http://weibo.cn/1513918040/follow at position 13 error; time out!
+23:13:11  Following http://weibo.cn/1513918040/follow at position 14 error; time out!
+23:13:13  Following http://weibo.cn/1513918040/follow at position 15 error; time out!
+23:13:14  Following http://weibo.cn/1513918040/follow at position 16 error; time out!
+23:13:15  Following http://weibo.cn/1513918040/follow at position 17 error; time out!
+23:13:18  lunbian error,try again!
+23:13:28  lunbian error,try again!
+23:13:38  lunbian error,try again!
+23:13:48  lunbian error,try again!
+23:13:58  lunbian error,try again!
+23:14:08  Query index lunbian time out!
+23:14:09  5664672995 error,try again!
+23:14:19  5664672995 error,try again!
+23:14:29  5664672995 error,try again!
+23:14:39  5664672995 error,try again!
+23:14:49  5664672995 error,try again!
+23:14:59  Query index 5664672995 time out!
+23:15:35  Following http://weibo.cn/3196015223/follow at position 1 error; time out!
+23:15:35  Following http://weibo.cn/3196015223/follow at position 1 error; try again!
+23:15:35  Following http://weibo.cn/3196015223/follow at position 1 error; try again!
+23:15:35  Following http://weibo.cn/3196015223/follow at position 1 error; try again!
+23:15:36  cclzkb error,try again!
+23:15:46  cclzkb error,try again!
+10:55:04  cclzkb error,try again!
+10:55:14  cclzkb error,try again!
+10:55:37  cclzkb error,try again!
+10:55:47  Query index cclzkb time out!
+                                13:40:48  5848291548 error,try again!
+13:40:58  5848291548 error,try again!
+13:41:08  Query index 5848291548 time out!
+13:41:09  dafachen error,try again!
+13:41:19  dafachen error,try again!
+13:41:29  dafachen error,try again!
+13:41:39  dafachen error,try again!
+13:41:49  dafachen error,try again!
+13:41:59  Query index dafachen time out!
+13:42:00  208083365 error,try again!
+13:42:10  208083365 error,try again!
+13:42:20  208083365 error,try again!
+13:42:30  208083365 error,try again!
+13:42:40  208083365 error,try again!
+13:42:50  Query index 208083365 time out!
+13:42:52  wmovier error,try again!
+13:50:06  Following http://weibo.cn/1972633997/follow at position 11 error; try again!
+13:50:38  Following http://weibo.cn/1893542727/follow at position 9 error; try again!
+13:52:03  Following http://weibo.cn/1671000673/follow at position 18 error; time out!
+13:52:03  Following http://weibo.cn/1671000673/follow at position 18 error; try again!
+13:52:03  Following http://weibo.cn/1671000673/follow at position 18 error; try again!
+13:52:03  Following http://weibo.cn/1671000673/follow at position 18 error; try again!
+13:59:21  Following http://weibo.cn/3722942445/follow at position 8 error; try again!
+13:59:36  Following http://weibo.cn/3722942445/follow at position 10 error; try again!
+14:02:37  Following http://weibo.cn/3173485320/follow at position 14 error; try again!
+14:07:39  Following http://weibo.cn/1955014793/follow at position 13 error; try again!
+14:08:43  Following http://weibo.cn/1762509182/follow at position 10 error; try again!
+14:09:41  Following http://weibo.cn/1746565500/follow at position 17 error; try again!
+14:10:09  Following http://weibo.cn/1198306525/follow at position 9 error; try again!
